@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+	<title>Home | Covi Care</title>
+
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Datatable -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js">
+    </script>
+    <script src="https://kit.fontawesome.com/c5fe5e7547.js" crossorigin="anonymous"></script>
+
+<style>
+        table.dataTable tbody td {
+            word-break: break-word;
+            vertical-align: top;
+        }
+        
+        .loader {
+            color: #ffffff;
+            font-size: 90px;
+            text-indent: -9999em;
+            overflow: hidden;
+            width: 1em;
+            height: 1em;
+            border-radius: 50%;
+            margin: 72px auto;
+            position: relative;
+            -webkit-transform: translateZ(0);
+            -ms-transform: translateZ(0);
+            transform: translateZ(0);
+            -webkit-animation: load6 1.7s infinite ease, round 1.7s infinite ease;
+            animation: load6 1.7s infinite ease, round 1.7s infinite ease;
+        }
+        
+        @-webkit-keyframes load6 {
+            0% {
+                box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+            }
+            5%,
+            95% {
+                box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+            }
+            10%,
+            59% {
+                box-shadow: 0 -0.83em 0 -0.4em, -0.087em -0.825em 0 -0.42em, -0.173em -0.812em 0 -0.44em, -0.256em -0.789em 0 -0.46em, -0.297em -0.775em 0 -0.477em;
+            }
+            20% {
+                box-shadow: 0 -0.83em 0 -0.4em, -0.338em -0.758em 0 -0.42em, -0.555em -0.617em 0 -0.44em, -0.671em -0.488em 0 -0.46em, -0.749em -0.34em 0 -0.477em;
+            }
+            38% {
+                box-shadow: 0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em, -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em, -0.82em -0.09em 0 -0.477em;
+            }
+            100% {
+                box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+            }
+        }
+        
+        @keyframes load6 {
+            0% {
+                box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+            }
+            5%,
+            95% {
+                box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+            }
+            10%,
+            59% {
+                box-shadow: 0 -0.83em 0 -0.4em, -0.087em -0.825em 0 -0.42em, -0.173em -0.812em 0 -0.44em, -0.256em -0.789em 0 -0.46em, -0.297em -0.775em 0 -0.477em;
+            }
+            20% {
+                box-shadow: 0 -0.83em 0 -0.4em, -0.338em -0.758em 0 -0.42em, -0.555em -0.617em 0 -0.44em, -0.671em -0.488em 0 -0.46em, -0.749em -0.34em 0 -0.477em;
+            }
+            38% {
+                box-shadow: 0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em, -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em, -0.82em -0.09em 0 -0.477em;
+            }
+            100% {
+                box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+            }
+        }
+        
+        @-webkit-keyframes round {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+            100% {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+        
+        @keyframes round {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+            100% {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+
+</head>
+<body>
+<h1>CoviCare</h1>
+<div class="row">
+    <div>
+        <div>
+            <div>
+                <h4>Total Cases</h4>
+                <h2>{{data.total}}</h2>
+                <h4>{{today.dailyconfirmed}}</h4>
+                <h6>
+                    {% if (increment.total|int > 0) %}
+                    <i class="fa fa-arrow-up"></i> Increased by {{increment.total|float|abs}}% {% else %}
+                    <i class="fa fa-arrow-down"></i> Decreased by {{increment.total|float|abs}}% {% endif %}
+                </h6>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div>
+            <div>
+                <h4>Recovered</h4>
+                <h2>{{data.discharged}}</h2>
+
+                <h4>{{today.dailyrecovered}}</h4>
+                <h6>
+                    {% if (increment.recovered|int > 0) %}
+                    <i class="fa fa-arrow-up"></i> Increased by {{increment.recovered|float|abs}}% {% else %}
+                    <i class="fa fa-arrow-down"></i> Decreased by {{increment.recovered|float|abs}}% {% endif %}
+                </h6>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div>
+            <div>
+            	<h4>Active Cases</h4>
+                <h2>{{data.total - (data.discharged - data.deaths)}}</h2>
+                <h4>{{today.active}}</h4>
+                <h6>
+                    {% if (increment.active|int > 0) %}
+                    <i class="fa fa-arrow-up"></i> Increased by {{increment.active|float|abs}}% {% else %}
+                    <i class="fa fa-arrow-down"></i> Decreased by {{increment.active|float|abs}}% {% endif %}
+                </h6>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div>
+            <div>
+            	<h4>Deaths</h4>
+                <h2>{{data.deaths}}</h2>
+                <h4>{{today.dailydeceased}}</h4>
+                <h6>
+                    {% if (increment.deceased|int > 0) %}
+                    <i class="fa fa-arrow-up"></i> Increased by {{increment.deceased|float|abs}}% {% else %}
+                    <i class="fa fa-arrow-down"></i> Decreased by {{increment.deceased|float|abs}}% {% endif %}
+                </h6>
+            </div>
+        </div>
+    </div>
+</div>
+    <div>
+        <div>
+            <div>
+
+                <table id="example" class="table datatable table-responsive-md table-hover" data-id-field="code" data-sort-name="value1" data-sort-order="desc" data-pagination="false" data-show-pagination-switch="false">
+                    <thead>
+                        <tr>
+                            <th data-field="code" class="text-dark" data-sortable="true">State</th>
+                            <th data-field="code" class="text-danger" data-sortable="true">Cases</th>
+                            <th data-field="code" class="text-success" data-sortable="true">Recovered</th>
+                            <th data-field="code" class="text-info" data-sortable="true">Active</th>
+                            <th data-field="code" class="text-secondary" data-sortable="true">Deaths</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for region in regional %}
+
+                        <tr>
+                            <td class="text-dark">{{region.loc}}</td>
+                            <td class="text-danger">{{region.totalConfirmed}}</td>
+                            <td class="text-success">{{region.discharged}}</td>
+                            <td class="text-info">{{region.totalConfirmed - (region.discharged+region.deaths)}}</td>
+                            <td class="text-secondary">{{region.deaths}}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#example').DataTable({
+                autoWidth: false,
+                columnDefs: [{
+                    // "className": "dt-center",
+                    "targets": "_all"
+                }],
+                paging: false,
+                responsive: true,
+                scrollX: true,
+                // responsive: true,
+                info: false,
+                // rowReorder: {
+                //     // selector: 'td:nth-child(2)'
+                // },
+            });
+        });
+        $(window).ready(function() {
+            setTimeout(() => {
+
+                $('#loader').hide()
+            }, 500);
+
+        })
+    </script>
+</body>
+</html>
