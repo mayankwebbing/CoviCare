@@ -1,2 +1,0 @@
-# CoviCare
-Covid Help Desk
