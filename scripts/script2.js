@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $.getJSON("mp.json", function(hospitalinfoupdate){
+    $.getJSON("https://raw.githubusercontent.com/mayankv03/CoviCare/main/mp.json", function(hospitalinfoupdate){
             
             var re = hospitalinfoupdate;
             buildTable(re)
