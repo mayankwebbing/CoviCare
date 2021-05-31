@@ -1,21 +1,21 @@
-$.getJSON("https://raw.githubusercontent.com/mayankv03/CoviCare/main/mp.json", function(hospitalinfoupdate){   
-        var re = hospitalinfoupdate;
-        buildTable(re)
-        function buildTable(data){
-            var table = document.getElementById('mphospitalinfo')
-            for (var i = 0; i < data.length; i++){
-                var row = `<tr>
-						      <td class="text-dark text-semibold ">${data[i].district}</td>
-                            <td class="text-dark text-semibold ">${data[i].name}</td>
-                            <td class="text-dark text-semibold ">${data[i].type}</td>
-                            <td class="text-dark text-semibold ">${data[i].contact1}</td>
-                            <td class="text-dark text-semibold ">${data[i].contact2}</td>
-                            <td class="text-dark text-semibold ">${data[i].contact3}</td>
-                        </tr>`
-                table.innerHTML += row
-            }
-        }
-})
+// $.getJSON("https://raw.githubusercontent.com/mayankv03/CoviCare/main/mp.json", function(hospitalinfoupdate){   
+//         var re = hospitalinfoupdate;
+//         buildTable(re)
+//         function buildTable(data){
+//             var table = document.getElementById('mphospitalinfo')
+//             for (var i = 0; i < data.length; i++){
+//                 var row = `<tr>
+// 						      <td class="text-dark text-semibold ">${data[i].district}</td>
+//                             <td class="text-dark text-semibold ">${data[i].name}</td>
+//                             <td class="text-dark text-semibold ">${data[i].type}</td>
+//                             <td class="text-dark text-semibold ">${data[i].contact1}</td>
+//                             <td class="text-dark text-semibold ">${data[i].contact2}</td>
+//                             <td class="text-dark text-semibold ">${data[i].contact3}</td>
+//                         </tr>`
+//                 table.innerHTML += row
+//             }
+//         }
+// })
 
 function myTableSearch() {
     // Declare variables
