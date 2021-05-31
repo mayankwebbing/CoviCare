@@ -1,0 +1,5113 @@
+[{
+        "name": "Pichda warg Boys Post matric Hostel Malikhedi road Agar Malwa",
+        "district": "Agar Malwa",
+        "type": "Government",
+        "contact1": ["Dr.Pankaj Baghel", "8120922246"],
+        "contact2": ["Dr.Pankaj Baghel", "8120922246"],
+        "contact3": ["Dr.Kabeer", "9644190018"]
+    },
+    {
+        "name": "DH Agar Malwa - DCHC",
+        "district": "Agar Malwa",
+        "type": "Government",
+        "contact1": ["DR.S.K. Paliwal", "9425074885"],
+        "contact2": ["Dr.Shashank Saxena", "9425429051"],
+        "contact3": ["Dr.D.S.Parmar", "7879466266"]
+    },
+    {
+        "name": "Eklavya Hostel Sejawada",
+        "district": "Alirajpur",
+        "type": "Government",
+        "contact1": ["Dr Manoj Kumar", "7898545837"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "BOYS Hostel, Alirajpur",
+        "district": "Alirajpur",
+        "type": "Government",
+        "contact1": ["Dr. Jaydeep Jamindar", "7805057576"],
+        "contact2": ["Dr Kesar Singh", "7566646088"],
+        "contact3": ["Dr Rekha Kanesh", "7566027179"]
+    },
+    {
+        "name": "DH Alirajpur - DCHC",
+        "district": "Alirajpur",
+        "type": "Government",
+        "contact1": ["Dr. Santosh Solanki", "9926838121"],
+        "contact2": ["Dr Bhavesh", "7898659339"],
+        "contact3": ["Dr Jitu Rawat", "6266578398"]
+    },
+    {
+        "name": "GOVT KANYA SIKSHA PARISHAR ANUPPUR",
+        "district": "Anuppur",
+        "type": "Government",
+        "contact1": ["DR M S SHYAM", "7898584653"],
+        "contact2": ["DR R P SHRIWASTAVA", "9425184337"],
+        "contact3": ["DR SIDDUQI", "9300640465"]
+    },
+    {
+        "name": "DH Anuppur - DCHC",
+        "district": "Anuppur",
+        "type": "Government",
+        "contact1": ["Dr. S R P DWIVEDI", "9425473164"],
+        "contact2": ["DR VIJAY BHAN SINGH", "8889051720"],
+        "contact3": ["NEENA KHEES", "9993959154"]
+    },
+    {
+        "name": "SECL KOTMA HOSPITAL(BHALUMADA)",
+        "district": "Anuppur",
+        "type": "Government",
+        "contact1": ["DR DINBANDHU", "9109491554"],
+        "contact2": ["DR DINBANDHU", "9109491554"],
+        "contact3": ["DR DINBANDHU", "9109491554"]
+    },
+    {
+        "name": "CHC RAJENDRAGRAM",
+        "district": "Anuppur",
+        "type": "Government",
+        "contact1": ["DR S K SINGH", "9425344671"],
+        "contact2": ["KARIMAN BEE", "7974543286"],
+        "contact3": ["DR K S DHURVE", "7987862531"]
+    },
+    {
+        "name": "CH MUNGAOLI",
+        "district": "Ashoknagar",
+        "type": "Government",
+        "contact1": ["DR. AMIT PANDEY", "7389986622"],
+        "contact2": ["DR. AMIT PANDEY", "7389986622"],
+        "contact3": ["DR. AMIT PANDEY", "7389986622"]
+    },
+    {
+        "name": "SAMAR HOSPITAL",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["Mr. Vishnu", "9516822579"],
+        "contact2": ["Mr. Vishnu", "9516822579"],
+        "contact3": ["Mr. Vishnu", "9516822579"]
+    },
+    {
+        "name": "LKT HOSPITAL",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["MR LILESH TOMAR", "9981470062"],
+        "contact2": ["MR LILESH TOMAR", "9981470062"],
+        "contact3": ["MR LILESH TOMAR", "9981470062"]
+    },
+    {
+        "name": "AYUSHMAN NURSING HOME",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["DR MANGAL SONIK", "9406582200"],
+        "contact2": ["DR MANGAL SONIK", "9406582200"],
+        "contact3": ["DR MANGAL SONIK", "9406582200"]
+    },
+    {
+        "name": "ANANT HOSPITAL",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["Mr. Ajay Singh", "9713288548"],
+        "contact2": ["Mr. Ajay Singh", "9713288548"],
+        "contact3": ["Mr. Ajay Singh", "9713288548"]
+    },
+    {
+        "name": "CHC ISAGARH",
+        "district": "Ashoknagar",
+        "type": "Government",
+        "contact1": ["DR. MAHENDRA DHAKAD", "7415752540"],
+        "contact2": ["DR. MAHENDRA DHAKAD", "7415752540"],
+        "contact3": ["DR. MAHENDRA DHAKAD", "7415752540"]
+    },
+    {
+        "name": "CHC SHADORA",
+        "district": "Ashoknagar",
+        "type": "Government",
+        "contact1": ["DR. SHIVRAJ SINGH BHADOURIYA", "9131178433"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CH CHANDERI",
+        "district": "Ashoknagar",
+        "type": "Government",
+        "contact1": ["DR. M.L. KHARKA", "9406500911"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "LIFE LINE HOSPITAL",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["DR. SUDEEP JAIN", "9425053090"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Ashoknagar - DCHC",
+        "district": "Ashoknagar",
+        "type": "Government",
+        "contact1": ["Dr. Manish Choursiya", "9893015806"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "RAJSHREE NURSING HOME",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["DR SUYASH JAIN", "9826547955"],
+        "contact2": ["DR SUYASH JAIN", "9826547955"],
+        "contact3": ["DR SUYASH JAIN", "9826547955"]
+    },
+    {
+        "name": "ASHOKA HOSPITAL",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["MR. RAMESH KORI", "7509439048"],
+        "contact2": ["DR VIVEK SURANA", "7987097978"],
+        "contact3": ["DR VIVEK SURANA", "7987097978"]
+    },
+    {
+        "name": "ANANDPUR HOSPITAL",
+        "district": "Ashoknagar",
+        "type": "Private",
+        "contact1": ["KULDEEP MAHATMA JI", "9617377767"],
+        "contact2": ["KULDEEP MAHATMA JI", "9617377767"],
+        "contact3": ["KULDEEP MAHATMA JI", "9617377767"]
+    },
+    {
+        "name": "TRAINING CENTER",
+        "district": "Ashoknagar",
+        "type": "Government",
+        "contact1": ["Dr. Manish Chourasiya", "9893015806"],
+        "contact2": ["Mr. Rajesh Jataw", "9981819712"],
+        "contact3": ["MR DEEPAK SINGH SISODIA", "9755678228"]
+    },
+    {
+        "name": "Dist Hospital Balaghat",
+        "district": "Balaghat",
+        "type": "Government",
+        "contact1": ["Dr. Bhajan Lilhare", "7024433538"],
+        "contact2": ["Dr Pankaj Mahajan", "7389582111"],
+        "contact3": ["Dr Satyam Shukla", "7999576864"]
+    },
+    {
+        "name": "Patwari Training Center Gaykhuri Balaghat",
+        "district": "Balaghat",
+        "type": "Government",
+        "contact1": ["Dr Pankaj Mahajan", "7389582111"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Arogya Hospital Balaghat",
+        "district": "Balaghat",
+        "type": "Private",
+        "contact1": ["Dr Rohit Gupta", "7000250700"],
+        "contact2": ["Mr Bisen", "9977242198"],
+        "contact3": ["Mr Bisen", "9977242198"]
+    },
+    {
+        "name": "MULNA STADIUM",
+        "district": "Balaghat",
+        "type": "Government",
+        "contact1": ["Dr Pankaj Mahajan", "7389582111"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Ganpati Memorial Multispecialty Hospital And Critical Care Unit Balaghat",
+        "district": "Balaghat",
+        "type": "Private",
+        "contact1": ["Dr Avinash Sahare", "9907403547"],
+        "contact2": ["Dr Avinash Sahare", "9907403547"],
+        "contact3": ["Dr Avinash Sahare", "9907403547"]
+    },
+    {
+        "name": "Civil hospital Baihar",
+        "district": "Balaghat",
+        "type": "Government",
+        "contact1": ["Dr Harish Masram", "8225067857"],
+        "contact2": ["Dr Harish Masram", "8225067857"],
+        "contact3": ["Dr Harish Masram", "8225067857"]
+    },
+    {
+        "name": "Civil hospital lanji",
+        "district": "Balaghat",
+        "type": "Government",
+        "contact1": ["Dr Pradeep Gedam", "9425876045"],
+        "contact2": ["Dr Pradeep Gedam", "9425876045"],
+        "contact3": ["Dr Pradeep Gedam", "9425876045"]
+    },
+    {
+        "name": "Manorama Hospital Barwani DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr MS Solanki", "9131315997"],
+        "contact2": ["Dr MS Solanki", "9131315997"],
+        "contact3": ["Dr MS Solanki", "9131315997"]
+    },
+    {
+        "name": "Shree Narayandas Hospital Sendhwa DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr.Deepika Jhavar", "7977470752"],
+        "contact2": ["Dr.Deepika Jhavar", "7977470752"],
+        "contact3": ["Dr.Deepika Jhavar", "7977470752"]
+    },
+    {
+        "name": "MASTER DCHC",
+        "district": "Barwani",
+        "type": "Government",
+        "contact1": ["Mo.", "9407478275"],
+        "contact2": ["Mo.", "9407478275"],
+        "contact3": ["Mo.", "9407478275"]
+    },
+    {
+        "name": "Asha Gram Hospital Barwani",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr.Mukesh Chouhan", "8839381428"],
+        "contact2": ["Dr.Sanjay Rathore", "9617852685"],
+        "contact3": ["Maniram Naidu", "9074592829"]
+    },
+    {
+        "name": "Sanjeevni Hospital Barwani DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr Rashmi Patidar", "9893087173"],
+        "contact2": ["Dr Rashmi Patidar", "9893087173"],
+        "contact3": ["Dr Rashmi Patidar", "9893087173"]
+    },
+    {
+        "name": "Karuna Hospital Sendhwa DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr Stella mathew", "9754735689"],
+        "contact2": ["Dr Stella mathew", "9754735689"],
+        "contact3": ["Dr Stella mathew", "9754735689"]
+    },
+    {
+        "name": "Aandam Hospital Sendhwa DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr.Anand Gupta", "9425072963"],
+        "contact2": ["Dr.Anand Gupta", "9425072963"],
+        "contact3": ["Dr.Anand Gupta", "9425072963"]
+    },
+    {
+        "name": "DH Barwani DCHC District Hospital",
+        "district": "Barwani",
+        "type": "Government",
+        "contact1": ["Dr Nitin Rawat", "9981270175"],
+        "contact2": ["Dr Nitin Rawat", "9981270175"],
+        "contact3": ["Dr Nitin Rawat", "9981270175"]
+    },
+    {
+        "name": "Jamli Hostel Sendhwa",
+        "district": "Barwani",
+        "type": "Government",
+        "contact1": ["Dr Deepak Gourv", "9826508855"],
+        "contact2": ["Dr Deepak Gourv", "9826508855"],
+        "contact3": ["Dr Deepak Gourv", "9826508855"]
+    },
+    {
+        "name": "Maha Mratyunjan Hospital Barwani DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr Ashish Yadav", "9893474398"],
+        "contact2": ["Dr Ashish Yadav", "9893474398"],
+        "contact3": ["Dr Ashish Yadav", "9893474398"]
+    },
+    {
+        "name": "Sai Baba Jivan Dhara Hospital DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr Hemant Barche", "9926679088"],
+        "contact2": ["Dr Hemant Barche", "9926679088"],
+        "contact3": ["Dr Hemant Barche", "9926679088"]
+    },
+    {
+        "name": "BALAJI HOSPITAL BARWANI DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["Dr. Nand kishor Senani", "9422780113"],
+        "contact2": ["Dr. Nand kishor Senani", "9422780113"],
+        "contact3": ["Dr. Nand kishor Senani", "9422780113"]
+    },
+    {
+        "name": "Shree Grupad Hospital Barwani DCHC",
+        "district": "Barwani",
+        "type": "Private",
+        "contact1": ["DR. PANKAJ GUPTA", "9981266877"],
+        "contact2": ["DR. PANKAJ GUPTA", "9981266877"],
+        "contact3": ["DR. PANKAJ GUPTA", "9981266877"]
+    },
+    {
+        "name": "PADHAR HOSPITAL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["DR. RAJIV CHOUDHREY", "9425002131"],
+        "contact2": ["VIKASH SONWANI", "9407593944"],
+        "contact3": ["dr. mahima", "8220573750"]
+    },
+    {
+        "name": "BHIMPUR CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR. PANKAJ BATHAM", "7509868509"],
+        "contact2": ["WASNIK JI", "6260820618"],
+        "contact3": ["SANTOSHI JI", "8720006042"]
+    },
+    {
+        "name": "GHODADONGRI CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR SANJEEV SHARMA", "9826215165"],
+        "contact2": ["N R DESHMUKH", "8319024344"],
+        "contact3": ["PRAKASH MAKODE", "8871943727"]
+    },
+    {
+        "name": "PATTAN CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR.. ATRE", "9407594802"],
+        "contact2": ["BAMNE JI", "8770669190"],
+        "contact3": ["SUNIL JI", "9407399500"]
+    },
+    {
+        "name": "OM AYURVEDIC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR. SOAIB", "7828528041"],
+        "contact2": ["BRAJESH YADAV", "7024074178"],
+        "contact3": ["DR. SOAIB", "7828528041"]
+    },
+    {
+        "name": "DH - BETUL Warehouse (District Hospital Campus) DCHC Betul",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["Dr. Ashok Barnga", "9425002915"],
+        "contact2": ["RAKESH YADAV", "9584560989"],
+        "contact3": ["DR. RANU VERMA", "9425002454"]
+    },
+    {
+        "name": "SAHAPUR CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR. GAJENDRA", "7836903895"],
+        "contact2": ["BALDEV NAGLE", "9425684628"],
+        "contact3": ["KRANTI YADAV", "9424711333"]
+    },
+    {
+        "name": "SHRI GOVERDHAN CRITICAL CARE MATERNITY TRAUMA CENTER AND MULTISPACIALITY HOSPITAL BETUL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["NUTAN VALLABH RATHI", "7000979020"],
+        "contact2": ["DR. NITIN RATHI", "9179058111"],
+        "contact3": ["SUNIL", "9425870424"]
+    },
+    {
+        "name": "S D HOSPITAL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["DR. LALIT SARLE", "8770015896"],
+        "contact2": ["DR. ASHISH MAHAJAN", "8889007112"],
+        "contact3": ["BHUPENDRA SHINGH CHUHAN", "9575691811"]
+    },
+    {
+        "name": "SANJIVANI HOSPITAL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["DR. YOGESH PANDAGRE", "9425002630"],
+        "contact2": ["BABLU JI", "9407299220"],
+        "contact3": ["PINTU JI", "8109623398"]
+    },
+    {
+        "name": "KAKODIYA HOSPITAL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["DR. RAMESH KAKODIYA", "9977429722"],
+        "contact2": ["Ajay kakodiya", "7909336271"],
+        "contact3": ["Golu yadav", "9479669468"]
+    },
+    {
+        "name": "LASHKARE HOSPITAL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["DR. NAMEETA LASKARE", "9425002241"],
+        "contact2": ["DR. NAMESHWAR PATANKAR", "9098032511"],
+        "contact3": ["POOJA PANDAGRE", "9340485443"]
+    },
+    {
+        "name": "BHAISDEHI CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR ARUN ATAL", "9981873800"],
+        "contact2": ["SATISH BHUMARKAR", "6265120446"],
+        "contact3": ["NAWAZ SEKH", "6265120446"]
+    },
+    {
+        "name": "AMLA CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR. ASHOK NARVARE", "9285406947"],
+        "contact2": ["SUBHASH GUJARKAR", "9302638609"],
+        "contact3": ["DURGESH", "9131033108"]
+    },
+    {
+        "name": "CHICHOLI CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR RAJESH ATULKAR", "9424374232"],
+        "contact2": ["VINIT ARYA", "6263992281"],
+        "contact3": ["D.D. JHARBADE", "9424423275"]
+    },
+    {
+        "name": "HAMLAPUR CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["dr. brijesh yadav", "8122835535"],
+        "contact2": ["DR. SOHAIB KHAN", "9713592262"],
+        "contact3": ["dr. brijesh yadav", "8122835535"]
+    },
+    {
+        "name": "VAISHNAVI HOSPITAL",
+        "district": "Betul",
+        "type": "Private",
+        "contact1": ["DR. SURYA PATEL", "8839320052"],
+        "contact2": ["DR. ROHIT NAIDU", "8080763233"],
+        "contact3": ["KUNAL THAKRE", "8767703064"]
+    },
+    {
+        "name": "MULTAI CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR PALLAV AMRATFULLE", "7999756883"],
+        "contact2": ["TEJKARAN", "9479512748"],
+        "contact3": ["DEWAKAR KINKAR", "7389665201"]
+    },
+    {
+        "name": "SEHRA CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR. UDAY TOMAR", "7000261913"],
+        "contact2": ["Eknath thakur", "9425671955"],
+        "contact3": ["Yogeeta sahu", "7869769977"]
+    },
+    {
+        "name": "ATHNER CCC",
+        "district": "Betul",
+        "type": "Government",
+        "contact1": ["DR. SUMIT PATTAYA", "6261946574"],
+        "contact2": ["RISHAB JI", "9179406960"],
+        "contact3": ["DR. SUMIT PATTAYA", "6261946574"]
+    },
+    {
+        "name": "DH Bhind - DCHC",
+        "district": "Bhind",
+        "type": "Government",
+        "contact1": ["Dr Vineet Gupta", "9425122792"],
+        "contact2": ["Dr SORABH JAIN", "8319647051"],
+        "contact3": ["DR ANIL GOYAL", "7000442513"]
+    },
+    {
+        "name": "VIVEKANAND NURSHING COLLEGE BHIND",
+        "district": "Bhind",
+        "type": "Government",
+        "contact1": ["DR SHARAD JAIN", "7987304487"],
+        "contact2": ["DR VARUN SHARMA", "9039974606"],
+        "contact3": ["DR ARVIND SHARMA", "7000603291"]
+    },
+    {
+        "name": "BMHRC",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["LALIT KUMAR", "9425006323"],
+        "contact2": ["Prabha Desikan", "9425017316"],
+        "contact3": ["LALIT KUMAR", "9425006323"]
+    },
+    {
+        "name": "ATAL MEMORIAL CANCER CARE HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Mrs Unnati", "7552446139"],
+        "contact2": ["s k dubey", "9926950499"],
+        "contact3": ["AKASH", "8305167976"]
+    },
+    {
+        "name": "Care Multi Speciality",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Fazal", "9074142260"],
+        "contact2": ["Dr Ausaf Baig", "7999329679"],
+        "contact3": ["Nitesh Sharma", "9229191507"]
+    },
+    {
+        "name": "Carewell Multispeciality Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR PS Chowbey", "7999366790"],
+        "contact2": ["DR PS Chowbey", "7999366790"],
+        "contact3": ["DR PS Chowbey", "7999366790"]
+    },
+    {
+        "name": "Ayushmaan Bharat Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr virendra saini", "8463891433"],
+        "contact2": ["Dr virendra saini", "8463891433"],
+        "contact3": ["Dr virendra saini", "8463891433"]
+    },
+    {
+        "name": "RAJDEEP Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR KRISHNA SINGH", "9893193090"],
+        "contact2": ["DR KRISHNA SINGH", "9893193090"],
+        "contact3": ["DR KRISHNA SINGH", "9893193090"]
+    },
+    {
+        "name": "Career Institute of Medical Sciences Bhopal",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Jitendra Verma", "9977683553"],
+        "contact2": ["MR ANKIT SHUKLA", "9039633768"],
+        "contact3": ["MR ABHIJEET SINGH", "9826087404"]
+    },
+    {
+        "name": "Om Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr RS Roy", "8889678633"],
+        "contact2": ["Pinky Sachdev", "9981690908"],
+        "contact3": ["Dr RS Roy", "8889678633"]
+    },
+    {
+        "name": "Lahoti Hospital & Research Center",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Kapil Lahoti", "9826426470"],
+        "contact2": ["Dr Chanchal Singh", "8085467591"],
+        "contact3": ["Miss Deepali Goyal", "9699034533"]
+    },
+    {
+        "name": "V CARE CHILDREN HOSPITL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR RAMKISHAN YADAV", "9926508034"],
+        "contact2": ["DR RAMKISHAN YADAV", "9926508034"],
+        "contact3": ["DR RAMKISHAN YADAV", "9926508034"]
+    },
+    {
+        "name": "MONA MULTISPECIALITY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["MR. RISHI MEHTA", "9893373338"],
+        "contact2": ["MR. RISHI MEHTA", "9893373338"],
+        "contact3": ["MR. RISHI MEHTA", "9893373338"]
+    },
+    {
+        "name": "BHOPAL MULTISPECIALITY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Jeeshan Ahmed", "8435932196"],
+        "contact2": ["Jeeshan Ahmed", "8435932196"],
+        "contact3": ["Jeeshan Ahmed", "8435932196"]
+    },
+    {
+        "name": "MILITARY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["Dr. A.K Niranjan", "8423860619"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KAROND MULTI SPECIALTY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["SANDEEP MEHRA", "9300737688"],
+        "contact2": ["SANDEEP MEHRA", "9300737688"],
+        "contact3": ["SANDEEP MEHRA", "9300737688"]
+    },
+    {
+        "name": "RKDF Medical College Hospital & Research Centre(CONTRACT)",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["Ruchi Chaubey", "7692940261"],
+        "contact2": ["Manish Chowdhari", "9830079258"],
+        "contact3": ["SHIV TIWARI", "6265382236"]
+    },
+    {
+        "name": "PALIWAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr j.p. Paliwal", "9425009911"],
+        "contact2": ["Dr j.p. Paliwal", "9425009911"],
+        "contact3": ["Dr j.p. Paliwal", "9425009911"]
+    },
+    {
+        "name": "JAWAHARLAL NEHRU GAS RAHAT HOSPITAL",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["DR ANIL JAIN", "8319240351"],
+        "contact2": ["DR ANIL JAIN", "8319240351"],
+        "contact3": ["DR ANIL JAIN", "8319240351"]
+    },
+    {
+        "name": "A K Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Kushagra Khiwani", "8120030250"],
+        "contact2": ["Dr. Anil K. Khiwani", "9826017751"],
+        "contact3": ["Mr. Santosh Vishwakarma", "7987262365"]
+    },
+    {
+        "name": "CVS Apollo Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr. C P Meena", "9993417676"],
+        "contact2": ["Gaurav Baghel", "7898303567"],
+        "contact3": ["DR Satyendra Pathak", "8821872457"]
+    },
+    {
+        "name": "GMC Bhopal - DCH",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["I D Chaurasia", "9425079117"],
+        "contact2": ["I D Chaurasia", "9425079117"],
+        "contact3": ["I D Chaurasia", "9425079117"]
+    },
+    {
+        "name": "People Medical College (Contract)",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["Sindhu Krishnan", "7773010325"],
+        "contact2": ["Akhilesh Mittal", "9893448588"],
+        "contact3": ["RAVISH CHAUDHARY", "8889523122"]
+    },
+    {
+        "name": "NATIONAL HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Mr Shreyash", "8109090919"],
+        "contact2": ["Mr Shreyash", "8109090919"],
+        "contact3": ["Mr Shreyash", "8109090919"]
+    },
+    {
+        "name": "EMPIRE HOSPITAL MULTISPECIALITY",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr. Adil", "7987501592"],
+        "contact2": ["Dr. Adil", "7987501592"],
+        "contact3": ["Dr. Adil", "7987501592"]
+    },
+    {
+        "name": "ASHA NIKETAN HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["PRASANNA", "9424443774"],
+        "contact2": ["NA", "9424443774"],
+        "contact3": ["NA", "9424443774"]
+    },
+    {
+        "name": "GOODWILL HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Akram Khan", "9993420548"],
+        "contact2": ["Dr Akram Khan", "9993420548"],
+        "contact3": ["Dr Akram Khan", "9993420548"]
+    },
+    {
+        "name": "LN MEDICAL COLLEGE (CONTRACT)",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["dR YASHWANT", "9131898152"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "TRIPTI MULTI SPECIALTY & TRAUMA CENTRE",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Deepak Katiyar", "8962161977"],
+        "contact2": ["Maya", "9745034539"],
+        "contact3": ["J Kaur", "9425377464"]
+    },
+    {
+        "name": "MOUNT HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Narendra pal", "9981057127"],
+        "contact2": ["Dr Narendra pal", "9981057127"],
+        "contact3": ["Dr Narendra pal", "9981057127"]
+    },
+    {
+        "name": "HOPE SS HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["RAJESH KATIYAR", "9425010240"],
+        "contact2": ["ANKIT RAO", "9131284985"],
+        "contact3": ["DEEPAK KATIYAR", "8319008393"]
+    },
+    {
+        "name": "Siddhanta red cross superspeciality",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["dr subodh vashneyi", "9826078794"],
+        "contact2": ["dr subodh vashneyi", "9826078794"],
+        "contact3": ["dr subodh vashneyi", "9826078794"]
+    },
+    {
+        "name": "DH - BHOPAL J. P. Hospital",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["Dr Rakesh Shrivastava", "9425004150"],
+        "contact2": ["Dr Yogendra Shriwastav", "9425444136"],
+        "contact3": ["Dr V K Dubey", "9425665839"]
+    },
+    {
+        "name": "NEW ERA SUPERSPECIALITY",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR ROHIT", "7999623457"],
+        "contact2": ["DR ROHIT", "7999623457"],
+        "contact3": ["DR ROHIT", "7999623457"]
+    },
+    {
+        "name": "Apex Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Saurabh Meghwani", "8839161356"],
+        "contact2": ["Dr Saurabh Meghwani", "8839161356"],
+        "contact3": ["Dr Saurabh Meghwani", "8839161356"]
+    },
+    {
+        "name": "MAYO HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["AK JAISWAL", "9425010770"],
+        "contact2": ["AK JAISWAL", "9425010770"],
+        "contact3": ["AK JAISWAL", "9425010770"]
+    },
+    {
+        "name": "Arera Trauma & Critical Care Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["ANKIT SHARMA", "9425606598"],
+        "contact2": ["RAJESH", "9111290798"],
+        "contact3": ["RAJESH", "9111290798"]
+    },
+    {
+        "name": "NAVJEEVAN",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Madhulika Saxena", "9644683746"],
+        "contact2": ["Madhulika Saxena", "9644683746"],
+        "contact3": ["Madhulika Saxena", "9644683746"]
+    },
+    {
+        "name": "Noble Multispecilaity Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Mahesh MV", "9039002945"],
+        "contact2": ["Mahesh MV", "9039002945"],
+        "contact3": ["Mahesh MV", "9039002945"]
+    },
+    {
+        "name": "ROSHAN Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["ROSHAN BHATNAGAR", "7089203006"],
+        "contact2": ["Dr rakesh Sukheja", "9826072333"],
+        "contact3": ["Dr rakesh Sukheja", "9826072333"]
+    },
+    {
+        "name": "ANANTSHREE HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Pooja", "9713521930"],
+        "contact2": ["Pooja", "9713521930"],
+        "contact3": ["Pooja", "9713521930"]
+    },
+    {
+        "name": "CITI HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Ayush Kumar Singh", "9893758044"],
+        "contact2": ["Ayush Kumar Singh", "9893758044"],
+        "contact3": ["Ayush Kumar Singh", "9893758044"]
+    },
+    {
+        "name": "Parul Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr. Pankaj Agrwal", "9826066364"],
+        "contact2": ["MANAGER", "9826286280"],
+        "contact3": ["MANAGER", "9826286280"]
+    },
+    {
+        "name": "Peoples General Hospital Pvt. Ltd.",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Mr. Udya Dixit", "9424400220"],
+        "contact2": ["Mr. Udya Dixit", "9424400220"],
+        "contact3": ["Mr. Udya Dixit", "9424400220"]
+    },
+    {
+        "name": "AAROGYA NIDHI HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Mr Adesh tiwari", "8109604290"],
+        "contact2": ["Mr Adesh tiwari", "8109604290"],
+        "contact3": ["Mr Adesh tiwari", "8109604290"]
+    },
+    {
+        "name": "Miracles Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Animesh Mathur", "8878666076"],
+        "contact2": ["Animesh Mathur", "8878666076"],
+        "contact3": ["Animesh Mathur", "8878666076"]
+    },
+    {
+        "name": "JANKI HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR RAJIV DALELA", "9009992737"],
+        "contact2": ["DR RAJIV DALELA", "9009992737"],
+        "contact3": ["DR RAJIV DALELA", "9009992737"]
+    },
+    {
+        "name": "BHAGVATI GAUTAM HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR NILESH GAUTAM", "7000338590"],
+        "contact2": ["DR NILESH GAUTAM", "7000338590"],
+        "contact3": ["DR NILESH GAUTAM", "7000338590"]
+    },
+    {
+        "name": "Nirmal Prem MUlti H.",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Durgesh Bhatnagar", "7389938538"],
+        "contact2": ["Anjani Bharnagar", "7389938539"],
+        "contact3": ["Abhijit Raghuwanshi", "8319597283"]
+    },
+    {
+        "name": "Rudransh Multi Speacility Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Rajesh Maithil", "9826838064"],
+        "contact2": ["Rajesh Maithil", "9826838064"],
+        "contact3": ["Rajesh Maithil", "9826838064"]
+    },
+    {
+        "name": "AYUSHMAN MULTICARE HOSPITAL BHANPUR",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR JASWANT VISHWAKARMA", "9074653992"],
+        "contact2": ["DR JASWANT VISHWAKARMA", "9074653992"],
+        "contact3": ["DR JASWANT VISHWAKARMA", "9074653992"]
+    },
+    {
+        "name": "DULAR HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["SACHIN G CHOUKSEY", "7067919843"],
+        "contact2": ["Dr Ariwal Singh", "7552446809"],
+        "contact3": ["Dr Ariwal Singh", "7552446809"]
+    },
+    {
+        "name": "JAWAHARLAL Nehru Cancer Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Chaturvedi", "9977999146"],
+        "contact2": ["Dr Chaturvedi", "9977999146"],
+        "contact3": ["Dr Chaturvedi", "9977999146"]
+    },
+    {
+        "name": "Chirayu Medical College",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr. Mangalgiri", "9993366621"],
+        "contact2": ["Dr. Mangalgiri", "9993366621"],
+        "contact3": ["Dr. Mangalgiri", "9993366621"]
+    },
+    {
+        "name": "Bhopal Care Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["ajay mehta", "9425017148"],
+        "contact2": ["savita mehta", "9589536666"],
+        "contact3": ["Deepak Lakhani", "9098236346"]
+    },
+    {
+        "name": "Promise Children and General Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr. DEEPAK", "9340601569"],
+        "contact2": ["Dr. DEEPAK", "9340601569"],
+        "contact3": ["Dr. DEEPAK", "9340601569"]
+    },
+    {
+        "name": "NEURON TRAMA CENTER & MULTISPECIALITY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["PANKAJ SHARMA", "8223994296"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SAHARA Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Piyush Vyas", "9425022297"],
+        "contact2": ["POOJA DUHRE", "7999734497"],
+        "contact3": ["SHREE AMRESH", "8435304179"]
+    },
+    {
+        "name": "RAILWAY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["BHAVISHYA RATHORE", "9752416514"],
+        "contact2": ["BHAVISHYA RATHORE", "9752416514"],
+        "contact3": ["BHAVISHYA RATHORE", "9752416514"]
+    },
+    {
+        "name": "Sakshi Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr swapnil paliwal", "8962473496"],
+        "contact2": ["Dr swapnil paliwal", "8962473496"],
+        "contact3": ["Dr swapnil paliwal", "8962473496"]
+    },
+    {
+        "name": "Bansal Hospital, Bhopal - DCH",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR Vinod Tiwari", "8109099800"],
+        "contact2": ["DR Vinod Tiwari", "8109099800"],
+        "contact3": ["DR Vinod Tiwari", "8109099800"]
+    },
+    {
+        "name": "ASTHA HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["SHREE DILIP PAL", "9826837388"],
+        "contact2": ["Sister Prasanna", "9424437374"],
+        "contact3": ["SUNALI DUBEY", "8349325051"]
+    },
+    {
+        "name": "LBS",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Bhupendra Shrivastav", "8889844423"],
+        "contact2": ["Suresh Sahu", "9893247825"],
+        "contact3": ["Prdeep Singh", "9425403746"]
+    },
+    {
+        "name": "R R HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Amit Dixit", "9893838789"],
+        "contact2": ["TARUN RATHORE", "7974355058"],
+        "contact3": ["RAHUL BEDAU", "9893296529"]
+    },
+    {
+        "name": "SILVER LINE",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Athar", "9425020443"],
+        "contact2": ["Dr Athar", "9425020443"],
+        "contact3": ["Dr Athar", "9425020443"]
+    },
+    {
+        "name": "Mahaveer Institute of medical Science and Research",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Rajesh Kumar Jain", "9425006560"],
+        "contact2": ["Dr Amit Daniel", "7987192656"],
+        "contact3": ["Dr Rajesh Kumar Jain", "9425006560"]
+    },
+    {
+        "name": "GAYTRI MULTI SPECIALITY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR G R ADLAK", "9425437782"],
+        "contact2": ["DR G R ADLAK", "9425437782"],
+        "contact3": ["DR G R ADLAK", "9425437782"]
+    },
+    {
+        "name": "ARADHNA MATERNITY & KIDNEY",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR SANJAY GUPTA", "9826059857"],
+        "contact2": ["DR SANJAY GUPTA", "9826059857"],
+        "contact3": ["DR SANJAY GUPTA", "9826059857"]
+    },
+    {
+        "name": "PRABHATSHRI HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Ram kumar Deshmukh", "9926333173"],
+        "contact2": ["Ram kumar Deshmukh", "7554920111"],
+        "contact3": ["Ram kumar Deshmukh", "9926333173"]
+    },
+    {
+        "name": "Smart City Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Vijaya Saxena", "9109101823"],
+        "contact2": ["Vijaya Saxena", "9109101823"],
+        "contact3": ["Vijaya Saxena", "9109101823"]
+    },
+    {
+        "name": "All India Institute of Medical Sciences",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["Dr. Lakshmi Prasad", "7675033335"],
+        "contact2": ["Dr. Lakshmi Prasad", "7675033335"],
+        "contact3": ["Dr. Lakshmi Prasad", "7675033335"]
+    },
+    {
+        "name": "LN JK HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["DR. A. K. CHOUDHARY", "9630092300"],
+        "contact2": ["DR. A. K. CHOUDHARY", "9630092300"],
+        "contact3": ["DR. A. K. CHOUDHARY", "9630092300"]
+    },
+    {
+        "name": "Nagpur Neuro & Trauma Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Zaid Usmani", "9039557645"],
+        "contact2": ["Lalit shakya", "9981486952"],
+        "contact3": ["Mr vikrant bhati", "7567435655"]
+    },
+    {
+        "name": "AKSHAY HOSPITAL",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["dr deepak chaturvedi", "9425004913"],
+        "contact2": ["Srinivas pandey", "9669453573"],
+        "contact3": ["Ravi Patel", "9685637785"]
+    },
+    {
+        "name": "CHARAK HOSPITAL AND RESEARCH CENTRE A UNIT OF MRITYUNJAY HEALTH CARE PVT LTD",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Mr. ANil Bhargava", "9826075272"],
+        "contact2": ["Mr. ANil Bhargava", "9826075272"],
+        "contact3": ["Mr. ANil Bhargava", "9826075272"]
+    },
+    {
+        "name": "AYUSH CCC",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["DR ANJU GUPTA", "9827229113"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "NIRAMAYA",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["ATUL CHODHARY", "7879757669"],
+        "contact2": ["Dr Arvindra Shrma", "9826419790"],
+        "contact3": ["Dr Brajendra Tiwari", "9826419790"]
+    },
+    {
+        "name": "Narmada Trauma Centre",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Shri DILIP", "9993370611"],
+        "contact2": ["Shri Pankaj", "9826017240"],
+        "contact3": ["Narmada Hospital", "7552423255"]
+    },
+    {
+        "name": "Kasturba Hospital",
+        "district": "Bhopal",
+        "type": "Government",
+        "contact1": ["Dr Vandana Dave", "9425604476"],
+        "contact2": ["DR ALPANA TIWARI", "9425604513"],
+        "contact3": ["DR V VINOD KUMAR", "9406906777"]
+    },
+    {
+        "name": "Chaudhary Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Akash Mishra", "9406955057"],
+        "contact2": ["Akash Mishra", "9406955057"],
+        "contact3": ["Akash Mishra", "9406955057"]
+    },
+    {
+        "name": "Aadhar hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Adarsh thakur", "6263109171"],
+        "contact2": ["Vipin Dubey", "9340077180"],
+        "contact3": ["Aadhar hospital", "9174884411"]
+    },
+    {
+        "name": "Rajabhoj Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr. Shakir Khan", "9826015368"],
+        "contact2": ["Dr. Shakir Khan", "9826015368"],
+        "contact3": ["Dr. Shakir Khan", "9826015368"]
+    },
+    {
+        "name": "NAVODAYA_COVID_CENTRE",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["SHAGUFTA", "9584464445"],
+        "contact2": ["NAYAN VYAS", "9340074420"],
+        "contact3": ["ISWAR SIR", "6260226411"]
+    },
+    {
+        "name": "ABM Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Akeel Khan", "9993420834"],
+        "contact2": ["Jaid Khan", "7000579275"],
+        "contact3": ["Nadeem Khan", "7666132941"]
+    },
+    {
+        "name": "Divyanka Children Hospital",
+        "district": "Bhopal",
+        "type": "Private",
+        "contact1": ["Dr Deepak Chaturvedi", "7000051700"],
+        "contact2": ["Dr Deepak Chaturvedi", "7000051700"],
+        "contact3": ["Dr Deepak Chaturvedi", "7000051700"]
+    },
+    {
+        "name": "DH Burhanpur - DCHC-(DCHC - District Hospital)",
+        "district": "Burhanpur",
+        "type": "Government",
+        "contact1": ["Dr Rajesh Solanki", "8770175590"],
+        "contact2": ["Dr Rajesh Solanki", "8770175590"],
+        "contact3": ["Dr Rajesh Solanki", "8770175590"]
+    },
+    {
+        "name": "APPLE PRIEVATE HOSPITAL",
+        "district": "Burhanpur",
+        "type": "Private",
+        "contact1": ["DR.ANIL JAIN", "9425085620"],
+        "contact2": ["DR HEMANT MAHAJAN", "9425343529"],
+        "contact3": ["DR FOORKAN SHEIKH", "9827728449"]
+    },
+    {
+        "name": "ANMTC Burhanpur-(CCC - Hostel)",
+        "district": "Burhanpur",
+        "type": "Government",
+        "contact1": ["Dr Gaurav Thawani", "8770288387"],
+        "contact2": ["Dr Gaurav Thawani", "8770288387"],
+        "contact3": ["Dr Gaurav Thawani", "8770288387"]
+    },
+    {
+        "name": "All is well Private Hospital",
+        "district": "Burhanpur",
+        "type": "Private",
+        "contact1": ["Dr. sumit Borale", "9926066888"],
+        "contact2": ["DR SUBODH BORLE", "9926066888"],
+        "contact3": ["DR GANESH KHARCHE", "9552788768"]
+    },
+    {
+        "name": "Government Boys Hostel",
+        "district": "Chhatarpur",
+        "type": "Government",
+        "contact1": ["Dr Maharishi Ojha", "7000125360"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Chhatarpur - DCHC",
+        "district": "Chhatarpur",
+        "type": "Government",
+        "contact1": ["DR ARVIND SINGH", "9981316909"],
+        "contact2": ["DR ARVIND SINGH", "9981316909"],
+        "contact3": ["DR ARVIND SINGH", "9981316909"]
+    },
+    {
+        "name": "Mission Hospital",
+        "district": "Chhatarpur",
+        "type": "Private",
+        "contact1": ["Dr Tony Vikas Vishwas", "9140086814"],
+        "contact2": ["Albert", "9479467979"],
+        "contact3": ["Sheetal Chandu", "9424692046"]
+    },
+    {
+        "name": "Civil Hospital Pandhurna ,Dist Chhindwara",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr.Naresh Gonnade", "9630831126"],
+        "contact2": ["Dr.", "9630831126"],
+        "contact3": ["Dr", "9630831126"]
+    },
+    {
+        "name": "WCL HOSPITAL-BADKUHI",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr Mathur", "6260565371"],
+        "contact2": ["Dr mathur", "6260565271"],
+        "contact3": ["Dr", "6260565261"]
+    },
+    {
+        "name": "DH CHHINDWARA - DCHC",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr. P. Gogia", "9425306100"],
+        "contact2": ["Dr. Sushil dubey", "9425837104"],
+        "contact3": ["Dr.", "9425306100"]
+    },
+    {
+        "name": "Arogya Hospital Chindwara",
+        "district": "Chhindwara",
+        "type": "Private",
+        "contact1": ["Deepak Khandelwal", "8770507313"],
+        "contact2": ["Deepak Khandelwal", "8770507313"],
+        "contact3": ["Deepak Khandelwal", "8770507313"]
+    },
+    {
+        "name": "PRIMARY HEALTH CENTER- SINGODI",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr Swarna Suryawanshi", "8839295154"],
+        "contact2": ["Dr A kaithwas", "7999040507"],
+        "contact3": ["Dr vishnu", "8602389967"]
+    },
+    {
+        "name": "Bindra Hospital",
+        "district": "Chhindwara",
+        "type": "Private",
+        "contact1": ["Dr.Bindra", "9827117510"],
+        "contact2": ["Dr.Bindra", "9827117510"],
+        "contact3": ["Dr.Bindra", "9827117510"]
+    },
+    {
+        "name": "CIMS , GMC Chhindwara - DCH",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr. Bhupendra Jain", "9406533632"],
+        "contact2": ["Dr. Bhupendra Jain", "9406533632"],
+        "contact3": ["Dr. Bhupendra Jain", "9406533632"]
+    },
+    {
+        "name": "ANAND HOSPITAL",
+        "district": "Chhindwara",
+        "type": "Private",
+        "contact1": ["DR. KANHA AGARWAL", "7694019999"],
+        "contact2": ["DR. KANHA AGARWAL", "7694019999"],
+        "contact3": ["DR. KANHA AGARWAL", "7694019999"]
+    },
+    {
+        "name": "Sonare Hospital",
+        "district": "Chhindwara",
+        "type": "Private",
+        "contact1": ["Dr.Swapnil Jain", "7052344422"],
+        "contact2": ["Dr.Swapnil Jain", "7052344422"],
+        "contact3": ["Dr.Swapnil Jain", "7052344422"]
+    },
+    {
+        "name": "Civil Hospital Sausar",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr N K Shashti", "9300284785"],
+        "contact2": ["Dr hemraj bokde", "9424325517"],
+        "contact3": ["Dr dhoke", "7974703198"]
+    },
+    {
+        "name": "LIFE CARE MULTI SPECIALITY HOSPITALS",
+        "district": "Chhindwara",
+        "type": "Private",
+        "contact1": ["MR. TANMAY BHATTCHARYA", "9993709444"],
+        "contact2": ["MR. TANMAY BHATTCHARYA", "9993709444"],
+        "contact3": ["MR. TANMAY BHATTCHARYA", "9993709444"]
+    },
+    {
+        "name": "Balaji Hospital",
+        "district": "Chhindwara",
+        "type": "Private",
+        "contact1": ["Dr.Pankaj Butda", "7987757285"],
+        "contact2": ["Dr.Pankaj Butda", "7987757285"],
+        "contact3": ["Dr.Pankaj Butda", "7987757285"]
+    },
+    {
+        "name": "COMMUNITY HEALTH CENTER BICHUWA",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr Nilesh Sidam", "7974832552"],
+        "contact2": ["Binjhade", "7974832552"],
+        "contact3": ["Dr sidam", "9584162791"]
+    },
+    {
+        "name": "WCL Hospital -JUNNARDEO",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr R R Singh", "9425896311"],
+        "contact2": ["Dr singh", "9425896321"],
+        "contact3": ["Dr inayat", "9752383786"]
+    },
+    {
+        "name": "KANYA PARISHAD HOSTAL DHARAM TEKRI CHHINDWARA",
+        "district": "Chhindwara",
+        "type": "Government",
+        "contact1": ["Dr S nagwanshi", "9826343579"],
+        "contact2": ["Dr Ajay Rajput", "9826343579"],
+        "contact3": ["Shyam Sharma", "9406834660"]
+    },
+    {
+        "name": "Govt Junior Girls Hostel Chainpura",
+        "district": "Damoh",
+        "type": "Government",
+        "contact1": ["Dr Sachin Tiwari", "6265274754"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "MISSION HOSPITAL DAMOH",
+        "district": "Damoh",
+        "type": "Private",
+        "contact1": ["DR. RAM PRAKASH PATEL", "9575059412"],
+        "contact2": ["Mr Dhamendra Tiwari", "9775059412"],
+        "contact3": ["DR. RAM PRAKASH PATEL", "9575059412"]
+    },
+    {
+        "name": "City Hospital Damoh",
+        "district": "Damoh",
+        "type": "Private",
+        "contact1": ["Dr Priya Jain", "9425095542"],
+        "contact2": ["Dr Priya Jain", "9425095542"],
+        "contact3": ["Dr Priya Jain", "9425095542"]
+    },
+    {
+        "name": "Sanjeevani Hospital",
+        "district": "Damoh",
+        "type": "Private",
+        "contact1": ["Dr Sanjeev Singhai", "7000652207"],
+        "contact2": ["Mr Prakash Patel", "7489975282"],
+        "contact3": ["Dr Sanjeev Singhai", "7000652207"]
+    },
+    {
+        "name": "Paras Hospital Damoh",
+        "district": "Damoh",
+        "type": "Private",
+        "contact1": ["Dr. Gaurav Nayak", "9826963342"],
+        "contact2": ["Mr Bhupendra Mehra", "8085272143"],
+        "contact3": ["Dr. Gaurav Nayak", "9826963342"]
+    },
+    {
+        "name": "Atharwa Nursing Home Damoh",
+        "district": "Damoh",
+        "type": "Private",
+        "contact1": ["Dr. Manish Patel", "9575004587"],
+        "contact2": ["Dr. Manish Patel", "9575004587"],
+        "contact3": ["Mr Raja", "8827833700"]
+    },
+    {
+        "name": "DH Damoh - DCHC",
+        "district": "Damoh",
+        "type": "Government",
+        "contact1": ["DR. DIWAKAR PATEL", "9827534897"],
+        "contact2": ["DR. DIWAKAR PATEL", "9827534897"],
+        "contact3": ["DR. DIWAKAR PATEL", "9827534897"]
+    },
+    {
+        "name": "Dh Datia - DCHC",
+        "district": "Datia",
+        "type": "Government",
+        "contact1": ["Dr. S.N.SHAKYA", "9926475837"],
+        "contact2": ["Dr Batham", "9926852696"],
+        "contact3": ["Dr K.K. Amarya", "9425071317"]
+    },
+    {
+        "name": "GNMTC, Datia",
+        "district": "Datia",
+        "type": "Government",
+        "contact1": ["DR HEMANT GAUTAM", "9575838990"],
+        "contact2": ["DR HEMANT GAUTAM", "9575838990"],
+        "contact3": ["DR HEMANT GAUTAM", "9575838990"]
+    },
+    {
+        "name": "GMC Datia - DCH",
+        "district": "Datia",
+        "type": "Government",
+        "contact1": ["Dr.K.K. GUPTA", "9410125566"],
+        "contact2": ["Dr.K.K. GUPTA", "9410125566"],
+        "contact3": ["Dr.K.K. GUPTA", "9410125566"]
+    },
+    {
+        "name": "PRIME HOSPITAL",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["PREETI CARPENTER", "9522205843"],
+        "contact2": ["PREETI CARPENTER", "9522205843"],
+        "contact3": ["PREETI CARPENTER", "9522205843"]
+    },
+    {
+        "name": "CITY HOSPITAL",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["NITIN KUMAR DOUR", "9977855573"],
+        "contact2": ["NITIN KUMAR DOUR", "9977855573"],
+        "contact3": ["NITIN KUMAR DOUR", "9977855573"]
+    },
+    {
+        "name": "DHRC DEWAS",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["DR RAHUL SOLANKI", "7415622535"],
+        "contact2": ["DR SOLANKY", "7415622535"],
+        "contact3": ["DR SOLANKY", "7415622535"]
+    },
+    {
+        "name": "Nursing Home Vinayak",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["Rajesh Choudhary", "9754502543"],
+        "contact2": ["Rajesh Choudhary", "9754502543"],
+        "contact3": ["Rajesh Choudhary", "9754502543"]
+    },
+    {
+        "name": "DH Dewas - DCHC",
+        "district": "Dewas",
+        "type": "Government",
+        "contact1": ["Dr. Atul Kumar Bidwai", "9826336991"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "APEX CARE HOSPITAL",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["MAHIMA SHARMA", "7000634441"],
+        "contact2": ["MAHIMA SHARMA", "7000634441"],
+        "contact3": ["MAHIMA SHARMA", "7000634441"]
+    },
+    {
+        "name": "Amaltas Institute of Medical Science (Contract)",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["Ritesh Lapalikar", "9131227462"],
+        "contact2": ["MANISH SHARMA", "9303210522"],
+        "contact3": ["MANISH SHARMA", "9303210522"]
+    },
+    {
+        "name": "CCC KANNOD",
+        "district": "Dewas",
+        "type": "Government",
+        "contact1": ["DR LOKESH MEENA", "9826454145"],
+        "contact2": ["DR LOKESH MEENA", "9826454145"],
+        "contact3": ["DR LOKESH MEENA", "9826454145"]
+    },
+    {
+        "name": "SANSKAR HOSPITAL",
+        "district": "Dewas",
+        "type": "Private",
+        "contact1": ["MS SHEETAL", "9479808663"],
+        "contact2": ["MS SHEETAL", "9479808663"],
+        "contact3": ["MS SHEETAL", "9479808663"]
+    },
+    {
+        "name": "Sanjeewani Hospital Pithampur",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["DR. MANISH AGRAWAL", "8889611181"],
+        "contact2": ["DR ASHOK SHRIVASTAV", "8827259492"],
+        "contact3": ["DHULE SINGH", "9907963040"]
+    },
+    {
+        "name": "Patidar Hospital Dhar",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["DR ASHOK JAIN", "9893557090"],
+        "contact2": ["SANJAY SONANE", "8770474205"],
+        "contact3": ["DR HEMANT NARGAVE", "9424544854"]
+    },
+    {
+        "name": "Mittal Hospital",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["DR. UMESH MITTAL", "9425045651"],
+        "contact2": ["Dr Sudeep Mittal", "8889065777"],
+        "contact3": ["Ayaz Saied", "9827398308"]
+    },
+    {
+        "name": "DHARWARA 2",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["Dr Dev Nigam", "9340950028"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "EKLAVYA BALAK CHATRAWAAS MANDAV ROAD (TIRLA)",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["Dr Rohit Sharma", "9425919540"],
+        "contact2": ["Sarika Chouhan", "9144940735"],
+        "contact3": ["Priyanka Sankhla", "7224052382"]
+    },
+    {
+        "name": "DH Dhar - DCHC-(DCHC - District Hospital)",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["DR NEERAJ DRUVE", "8085499660"],
+        "contact2": ["Dr Kalyan Jadon", "9826443871"],
+        "contact3": ["Dr Kalyan Jadon", "9826443871"]
+    },
+    {
+        "name": "Sardarpur CCC",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["Dr Sheela Mujhalda", "9893166624"],
+        "contact2": ["Madhuri Jaiswal", "9981044622"],
+        "contact3": ["Manjula Gaur", "8878672162"]
+    },
+    {
+        "name": "Pithampur Hospital & Research Centre",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["Dr Narendra Raj", "9826042261"],
+        "contact2": ["Dr Neeraj Aggrawal", "9826004420"],
+        "contact3": ["Dr Tadit Khare", "9713773988"]
+    },
+    {
+        "name": "OTHER DCHC PERIPHERY",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["DR SANJAY BHANDARI", "9424525050"],
+        "contact2": ["Dr Kalyan Jadon", "9826443871"],
+        "contact3": ["Dr Kalyan Jadon", "9826443871"]
+    },
+    {
+        "name": "Shri Guru Rajendra Manav Sewa Mandir Chiktsalya Trust,Rajgarh,Sardarpur",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["Shashwat Gupta", "7000130018"],
+        "contact2": ["Dr Sumit Jain", "9977211819"],
+        "contact3": ["Dr Sumit Jain", "9977211819"]
+    },
+    {
+        "name": "OM Sai Ram",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["DR ARUN KUMAR", "7869449697"],
+        "contact2": ["Dilip Saxena", "9009742299"],
+        "contact3": ["Dharmendra kuswah", "8839723248"]
+    },
+    {
+        "name": "Sai Ram Hospital Indorma",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["Dr Dinesh Rathore", "9753333168"],
+        "contact2": ["dilip saxena", "7987265819"],
+        "contact3": ["manish nayak", "7047252072"]
+    },
+    {
+        "name": "Shri Guru Rajendra Suri Chiksalya Trust evam Netr Anushandhan Kendra Mohankheda Teerth,",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["Mehtab Singh Sindal", "9926045516"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KASTURBA DHARWRA 1",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["Dr. Sanjay Bhandari", "9424525050"],
+        "contact2": ["DR LAXMI BAROD", "7828539528"],
+        "contact3": ["DR MEGHA MANAWAT", "7999920646"]
+    },
+    {
+        "name": "Health Care Hospital & Diagnostic Centre ,Pithampur",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["Dr Santosh Kumar", "8871369147"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Mahajan Hospital",
+        "district": "Dhar",
+        "type": "Private",
+        "contact1": ["DR. M. MAHAJAN", "9425046076"],
+        "contact2": ["JITENDRA YADAV", "9893878179"],
+        "contact3": ["KAILASH CHARPOTA", "9981226446"]
+    },
+    {
+        "name": "Badnawar CCC",
+        "district": "Dhar",
+        "type": "Government",
+        "contact1": ["Dr A S Shrivatsav", "9826381780"],
+        "contact2": ["Astha Vyas", "9981744699"],
+        "contact3": ["Rekha Parmaar", "9575885711"]
+    },
+    {
+        "name": "DIET CCC DINDORI",
+        "district": "Dindori",
+        "type": "Government",
+        "contact1": ["Dr. Ajay Raj", "9424940380"],
+        "contact2": ["Dr. Yashwant", "6265399978"],
+        "contact3": ["Dr. Pradeep", "8966935184"]
+    },
+    {
+        "name": "SHAHPURA DCHC",
+        "district": "Dindori",
+        "type": "Government",
+        "contact1": ["Dr. Satendra Paraste", "7772929334"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Dindori - DCHC",
+        "district": "Dindori",
+        "type": "Government",
+        "contact1": ["Dr.Dhanraj Singh", "8989471272"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SACHIN HOSPITAL",
+        "district": "Guna",
+        "type": "Private",
+        "contact1": ["DR SACHIN SONI", "9669016758"],
+        "contact2": ["DR SACHIN SONI", "9669016758"],
+        "contact3": ["DR SACHIN SONI", "9669016758"]
+    },
+    {
+        "name": "BALAJI HOSPITA",
+        "district": "Guna",
+        "type": "Private",
+        "contact1": ["DR MANOJ GUPTA", "9685521155"],
+        "contact2": ["DR MANOJ GUPTA", "9685521155"],
+        "contact3": ["DR MANOJ GUPTA", "9685521155"]
+    },
+    {
+        "name": "AASHIRWAD HOSPITAL",
+        "district": "Guna",
+        "type": "Private",
+        "contact1": ["DR J K LAHOTI", "9425131021"],
+        "contact2": ["DR J K LAHOTI", "9425131021"],
+        "contact3": ["DR J K LAHOTI", "9425131021"]
+    },
+    {
+        "name": "Sada Colony Hospital",
+        "district": "Guna",
+        "type": "Government",
+        "contact1": ["Dr. Laxmi", "9179957216"],
+        "contact2": ["ANIL SHUKALA", "7566896606"],
+        "contact3": ["SUNEEL MANJHI", "8770822366"]
+    },
+    {
+        "name": "SANJEEVINI HOSPITAL DCHC",
+        "district": "Guna",
+        "type": "Private",
+        "contact1": ["DR AMIT JAIN", "9977451515"],
+        "contact2": ["DR AMIT JAIN", "9977451515"],
+        "contact3": ["DR AMIT JAIN", "9977451515"]
+    },
+    {
+        "name": "RAM HITECH HOSPITAL",
+        "district": "Guna",
+        "type": "Private",
+        "contact1": ["DR YS RAGHUWANSHI", "9425131419"],
+        "contact2": ["DR YS RAGHUWANSHI", "9425131419"],
+        "contact3": ["DR YS RAGHUWANSHI", "9425131419"]
+    },
+    {
+        "name": "DH Guna - DCHC",
+        "district": "Guna",
+        "type": "Government",
+        "contact1": ["Dr SUNEEL YADAV", "8225084314"],
+        "contact2": ["Nmita khandekar", "9669602701"],
+        "contact3": ["Dr vishal dhakad", "9340087519"]
+    },
+    {
+        "name": "SAHYOG HOSPITAL",
+        "district": "Guna",
+        "type": "Private",
+        "contact1": ["DR JITENDRA RAGHUWANSHI", "9827016287"],
+        "contact2": ["DR JITENDRA RAGHUWANSHI", "9827016287"],
+        "contact3": ["DR JITENDRA RAGHUWANSHI", "9827016287"]
+    },
+    {
+        "name": "BALAJI HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR DEEPANKAR LAHARIYA", "7748979179"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "BHARAT HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["KAYAM SINGH BAGHEL", "9685542224"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "PRIME HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR MINAKSHI SHARMA", "9685991529"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SR MEMORIAL HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR KAMLESH MALVIYA", "9424561369"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Kalyan Multispecility Hospital padav",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Anil Saxena", "9826217672"],
+        "contact2": ["Dr Anil Saxena", "9826217672"],
+        "contact3": ["Dr Anil Saxena", "9826217672"]
+    },
+    {
+        "name": "SUPER AYUSHMAN HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR P P SINGH", "9893926261"],
+        "contact2": ["DR P P SINGH", "9893926261"],
+        "contact3": ["DR P P SINGH", "9893926261"]
+    },
+    {
+        "name": "BIMR Hospital Gwalior",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr S L Desai", "9425784546"],
+        "contact2": ["Dr S L Desai", "9425784546"],
+        "contact3": ["Dr S L Desai", "9425784546"]
+    },
+    {
+        "name": "Aayurbedik Hospital Gwalior",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["DR SHEFALI SINGHAL", "9407217859"],
+        "contact2": ["DR SHEFALI SINGHAL", "9009024204"],
+        "contact3": ["DR SHEFALI SINGHAL", "9009024204"]
+    },
+    {
+        "name": "Shri Krishna Hospital Gwalior",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Tapas", "8770606850"],
+        "contact2": ["Dr Tapas", "8770606850"],
+        "contact3": ["Dr Tapas", "8770606850"]
+    },
+    {
+        "name": "KAYA HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR AMIT NIGAM", "8602444091"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "MAA KAILADEVI HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR SANDEEP AGRWAL", "7509684469"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Chandra Hospital & Nursning Home Gwalior",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Padamnabh Sharma", "7566232242"],
+        "contact2": ["Dr Padamnabh Sharma", "7566232242"],
+        "contact3": ["Dr Padamnabh Sharma", "7566232242"]
+    },
+    {
+        "name": "MAA SHITLA MULTISPECAILITY HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR JAYPRAKSH BAGHEL", "9713700004"],
+        "contact2": ["DR VISHWAJEET RAGHUVANSI", "7869464556"],
+        "contact3": ["AJAY BAISHLA", "9584809918"]
+    },
+    {
+        "name": "VAISHNAVI HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR SOURABH PARPYANI", "8962123112"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Link Hospital",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Bhupendra jatav", "9339523533"],
+        "contact2": ["Dr Bhupendra jatav", "9339523533"],
+        "contact3": ["Dr Bhupendra jatav", "9339523533"]
+    },
+    {
+        "name": "SSIMS Multispecility Hospital",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ANURAG SIKARWAR", "7987558443"],
+        "contact2": ["DR ARJIT GUPTA", "9479881390"],
+        "contact3": ["AMIT SINGH CHAUHAN", "9425163830"]
+    },
+    {
+        "name": "SK MEMORIAL MULTISPECIALITY HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["BHOOPENDRA SHRIVASTAV", "9425122821"],
+        "contact2": ["BHOOPENDRA SHRIVASTAV", "9425122821"],
+        "contact3": ["BHOOPENDRA SHRIVASTAV", "9425122821"]
+    },
+    {
+        "name": "NARAYAN HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Devendra Arya", "7770858190"],
+        "contact2": ["Dr Devendra Arya", "7770858190"],
+        "contact3": ["Dr Devendra Arya", "7770858190"]
+    },
+    {
+        "name": "SARAF HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr P D Agrawal", "9425757702"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Jivan Sahara Hospital",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Arjit Gupta", "9479881390"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Kalyan memorial and kdj HOSPITAL MORAR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["dr Bhoopendra singh", "7354005008"],
+        "contact2": ["murari kushwah", "9131064770"],
+        "contact3": ["navneet garg", "9425751949"]
+    },
+    {
+        "name": "AMUKTA HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ANIL BHAVTI", "7000170842"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "RUDHRAAKSH HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR PRATAP SINGH CHAUHAN", "9039939007"],
+        "contact2": ["DR PRATAP SINGH CHAUHAN", "9039939007"],
+        "contact3": ["DR PRATAP SINGH CHAUHAN", "9039939007"]
+    },
+    {
+        "name": "ITM Hospital",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["DR NIDHI SENGAR", "7985966686"],
+        "contact2": ["DR MUKESH GUPTA", "9589545930"],
+        "contact3": ["DR GANESH PRASAD", "9479592142"]
+    },
+    {
+        "name": "OM MULTISPECIALITY HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ANIL SINGH", "7748979179"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "GS HOSPITAL AND RESEARCH INSTITUTE",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR O P CHAUHAN", "7987410609"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CIVIL HAZIRA GWALIOR",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["DR GIRISH SHARMA", "8109492393"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SARVADHARAM HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["DR AKSHAY CHAUHAN", "8959906418"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "VAIDANSH MULTI SPECAILITY HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR HITKISHOR SINGH", "9009540022"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SHREE MULTI SPECIALITY HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR BHOOPENDRA RAJAWAT", "7354005080"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "RISHISHWAR MULTISPECIALITY HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["TARUN SHARMA", "9522012352"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "HOTEL THE GOLDAN VILLEGE ( LOTAS HOSPITAL )",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Prashant Agrwal", "9560033023"],
+        "contact2": ["Dr Prashant Agrwal", "9560033023"],
+        "contact3": ["Dr Prashant Agrwal", "9560033023"]
+    },
+    {
+        "name": "Life Care Hospital Gwalior",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr K R Mahor", "9827375852"],
+        "contact2": ["Dr K R Mahor", "9827375852"],
+        "contact3": ["Dr K R Mahor", "9827375852"]
+    },
+    {
+        "name": "K M HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["SATISH DHAKAD", "7000269949"],
+        "contact2": ["SATISH DHAKAD", "7000269949"],
+        "contact3": ["SATISH DHAKAD", "7000269949"]
+    },
+    {
+        "name": "GOVIL HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR GOVIL", "7415939800"],
+        "contact2": ["DR GOVIL", "7415939800"],
+        "contact3": ["DR GOVIL", "7415939800"]
+    },
+    {
+        "name": "SHANTA NURSING HOME GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ROHIT PRATAP SINGH TOMAR", "9039939007"],
+        "contact2": ["DR ROHIT PRATAP SINGH TOMAR", "9039939007"],
+        "contact3": ["DR ROHIT PRATAP SINGH TOMAR", "9039939007"]
+    },
+    {
+        "name": "AROGYAM THE MEDICITY HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr chitranshi", "7987736792"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SOHAM HOSPITAL AND RESEARCH CENTRE GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Manish Shrivastav", "9425755528"],
+        "contact2": ["Dr Manish Shrivastav", "9425755528"],
+        "contact3": ["Dr Manish Shrivastav", "9425755528"]
+    },
+    {
+        "name": "MAHESHWARI HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR DIPANKAR LAHARIYA", "7773008103"],
+        "contact2": ["DR DIPANKAR LAHARIYA", "7773008103"],
+        "contact3": ["DR DIPANKAR LAHARIYA", "7773008103"]
+    },
+    {
+        "name": "IDEA COLLEGE GWALIOR",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["Dr Ramkumar Gupta", "9425130944"],
+        "contact2": ["Dr Ramkumar Gupta", "9425130944"],
+        "contact3": ["Dr Ramkumar Gupta", "9425130944"]
+    },
+    {
+        "name": "RIMSS HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR SHIKHA UPADHYAY", "9479549225"],
+        "contact2": ["DR KULVENDRA YADAV", "8989782002"],
+        "contact3": ["DR RAJKUMAR GARG", "9425650266"]
+    },
+    {
+        "name": "Paridhi Hospital Gwalior",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Raghvendra Singh", "9977244495"],
+        "contact2": ["Dr Raghvendra Singh", "9977244495"],
+        "contact3": ["Dr Raghvendra Singh", "9977244495"]
+    },
+    {
+        "name": "Mansarovar Care Hospital",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr VISHAL YADAV", "7049877000"],
+        "contact2": ["DR SHYAM RAJPUT", "9754514724"],
+        "contact3": ["DR R G KOTIYA", "9424397338"]
+    },
+    {
+        "name": "DH Gwalior - DCHC",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["Dr. Alok Purohit", "9425735434"],
+        "contact2": ["Dr. Alok Purohit", "9425735434"],
+        "contact3": ["Dr. Alok Purohit", "9425735434"]
+    },
+    {
+        "name": "RATHI HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR PRADEEP RATHI", "9827091588"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KANHA MULTISPECIALITY HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Dheeraj singh yadav", "9926143817"],
+        "contact2": ["Dr Dheeraj singh yadav", "9926143817"],
+        "contact3": ["Dr Dheeraj singh yadav", "9926143817"]
+    },
+    {
+        "name": "SIDDHANT HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR RAJEEV SAGARIYA", "9479808880"],
+        "contact2": ["DR RAJEEV SAGARIYA", "9479808880"],
+        "contact3": ["DR RAJEEV SAGARIYA", "9479808880"]
+    },
+    {
+        "name": "ALOK NURSING HOME GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR DEVENDRA GUPTA", "9229299688"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "THATIPUR COVID CENTRE GWALIOR",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["DR PRADEEP SHARMA", "9302352198"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "NAVJEEVAN HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ALOK PANDEY", "9827285001"],
+        "contact2": ["DR HARSH BHATT", "9406576376"],
+        "contact3": ["DR SONALI SOMANI", "9926774111"]
+    },
+    {
+        "name": "SHUBHAM HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR DEEPANKAR LAHARIYA", "7773008103"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KALPANA HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR HEMANT KUMAR SHAKYA", "7693932844"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KMJ ANSH HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR AMIT KATARE", "8269640505"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KUSHAL HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Ripudaman", "9425778601"],
+        "contact2": ["Dr Ripudaman", "9425778601"],
+        "contact3": ["Dr Ripudaman", "9425778601"]
+    },
+    {
+        "name": "RAMSINGH DHAKRE MEMORIAL HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR YOGENDRA POUNIKAR", "8959487837"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Appolo Hospital",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Avdhesh sharma", "9522280024"],
+        "contact2": ["Avdhesh sharma", "9522280024"],
+        "contact3": ["Avdhesh sharma", "9522280024"]
+    },
+    {
+        "name": "HOPE WELL HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["SONU BHADORIYA", "7771965000"],
+        "contact2": ["SONU BHADORIYA", "7771965000"],
+        "contact3": ["SONU BHADORIYA", "7771965000"]
+    },
+    {
+        "name": "MAX CARE HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR AMIT KATARE", "8269640505"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "LEELA HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR MUKESH TOMAR", "7974355636"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "VISM HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["DR J P BAGHEL", "9713700004"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "GLOBAL HOSPITAL",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Dr Harsh Agarwal", "9425117259"],
+        "contact2": ["Dr Harsh Agarwal", "9425117259"],
+        "contact3": ["Dr Harsh Agarwal", "9425117259"]
+    },
+    {
+        "name": "SMT RAMA DEVI SMARUTI NURSING HOME GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR SANJAY SAXENA", "9300999777"],
+        "contact2": ["DR SANJAY SAXENA", "9300999777"],
+        "contact3": ["DR SANJAY SAXENA", "9300999777"]
+    },
+    {
+        "name": "INDUS HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["UPENDRA TOMAR", "9644614919"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "BRAHMANI HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["BRAJESH RAJPUT", "8889437489"],
+        "contact2": ["DR BRAJESH RAJPUT", "8889437489"],
+        "contact3": ["DR BRAJESH RAJPUT", "8889437489"]
+    },
+    {
+        "name": "GMC-Gwalior - DCHJAH Super Specialty Hospital,",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["Dr. O. P. Jatav", "9425186701"],
+        "contact2": ["Dr. O. P. Jatav", "9425186701"],
+        "contact3": ["Dr. O. P. Jatav", "9425186701"]
+    },
+    {
+        "name": "JANAK HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR MANISH GUPTA", "9179329121"],
+        "contact2": ["DR MANISH GUPTA", "9179329121"],
+        "contact3": ["DR MANISH GUPTA", "9179329121"]
+    },
+    {
+        "name": "GALAV HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR DEEPANKAR LAHARIYA", "7773008103"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "MUSKAN MULTISPECIALITY HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR D S PARIHAR", "8461881201"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SUVIDHA HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["Harish Meena", "9098443535"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "AKASH HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR DEEPESH KHARE", "7470394688"],
+        "contact2": ["DR DEEPESH KHARE", "7470394688"],
+        "contact3": ["DR DEEPESH KHARE", "7470394688"]
+    },
+    {
+        "name": "ESI Hospital Gwalior - DCHC",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["Dr. Chandra Shekhar Jaiswal", "7000155651"],
+        "contact2": ["Dr. Chandra Shekhar Jaiswal", "7000155651"],
+        "contact3": ["Dr. Chandra Shekhar Jaiswal", "7000155651"]
+    },
+    {
+        "name": "PANACEA HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ROHIT TOMAR", "9039939007"],
+        "contact2": ["DR ROHIT TOMAR", "9039939007"],
+        "contact3": ["DR ROHIT TOMAR", "9039939007"]
+    },
+    {
+        "name": "SAHYOG HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR HEMANT GUPTA", "8357861034"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "S S T HOSPITAL GWALIOR",
+        "district": "Gwalior",
+        "type": "Private",
+        "contact1": ["DR ANURUDDH TOMAR", "8827415768"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Military Hospital Gwalior - DCHC",
+        "district": "Gwalior",
+        "type": "Government",
+        "contact1": ["Dr.GAUTAM", "8941003318"],
+        "contact2": ["Dr.GAUTAM", "8941003318"],
+        "contact3": ["Dr.GAUTAM", "8941003318"]
+    },
+    {
+        "name": "GOVT. POLYTECHNIC HOSTEL HARDA CCC",
+        "district": "Harda",
+        "type": "Government",
+        "contact1": ["DR. Sahid khan", "9098562377"],
+        "contact2": ["Dr shubhangi pandagre", "9503902291"],
+        "contact3": ["Dr manish sharma", "9826477447"]
+    },
+    {
+        "name": "DH HARDA - DCHC",
+        "district": "Harda",
+        "type": "Government",
+        "contact1": ["Dr. MANISH SHARMA", "9826477447"],
+        "contact2": ["Dr shirish ragubanshi", "8770836204"],
+        "contact3": ["Dr ashok verma", "9425644201"]
+    },
+    {
+        "name": "Pawarkheda",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Akshay Rraghuwanshi", "8226093731"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DCHC Narmada Apna Hospital",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Dr Rajesh Sharma", "9300289177"],
+        "contact2": ["Rajesh Saini", "9425666148"],
+        "contact3": ["Aditya Gour", "9770284139"]
+    },
+    {
+        "name": "CHC Pipariya",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr AK Agarwal", "9425408757"],
+        "contact2": ["Dr Rajesh Meena", "9827042655"],
+        "contact3": ["Dr Archna Arse", "7694913634"]
+    },
+    {
+        "name": "AMRIT HEART CARE Hoshangabad",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Manas Vyas", "9407383538"],
+        "contact2": ["Dr AM Tiwari", "9827015935"],
+        "contact3": ["Vivek Kewat", "7282067087"]
+    },
+    {
+        "name": "CHC Bankhedi",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Jagbandhan Parihar", "9893864788"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "KESHAV HOSPITAL HOSHANGABAD",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Dr Atul Setha", "9713210060"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "New Pandey Hospital Hoshangabad",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Dr Apoorva Pandey", "9539347263"],
+        "contact2": ["Radheshyam", "9584308241"],
+        "contact3": ["Dr Prem Pawar", "9826730605"]
+    },
+    {
+        "name": "CHC Sohagpur",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Rekha Singh Gour", "7354924105"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Sub Divisional Railway Hospital Itarsi",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Shivam Kulshrestha", "9752416510"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "St. Joseph Hospital",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Dr. Bindhu Joseph", "9770736150"],
+        "contact2": ["Sr. Sarita", "9131917904"],
+        "contact3": ["Mr. Stephen Ninan", "9425041498"]
+    },
+    {
+        "name": "Kamla Bai Prem Narayan Malvi Hospital",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Dr Shravan Kumar Malvi", "9827212116"],
+        "contact2": ["Dr Vinod Malviya", "7879843508"],
+        "contact3": ["Mr Gautam Nagaich", "7879843501"]
+    },
+    {
+        "name": "DAYAL HOSPITAL ITARSI",
+        "district": "Hoshangabad",
+        "type": "Private",
+        "contact1": ["Ranjeeta Malviya", "9479648662"],
+        "contact2": ["Deepak Malviya", "7223904330"],
+        "contact3": ["Sumit Tikariya", "9691160521"]
+    },
+    {
+        "name": "CHC Babai",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Rohit", "9131582082"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Hoshangabad - DCHC",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr. Dinesh Dehalwar", "8226093731"],
+        "contact2": ["DR. SHIVIKA BHALLA", "9009124938"],
+        "contact3": ["DR. SUNIL JAIN", "9074459043"]
+    },
+    {
+        "name": "CHC Seonimalwa",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Kanti Batam", "9826263607"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Ordnance Factory Hospital Itarsi",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr AS Sen CMO", "9479381799"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Dr. SPM CIVIL HOSPITAL Itarsi",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr. RK Choudhary", "9424017288"],
+        "contact2": ["Dr Vikas Jetpuria", "9425077045"],
+        "contact3": ["Dr DB Brahmachari", "8319692772"]
+    },
+    {
+        "name": "SPM Itarsi",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr RK Choudhary", "9424017288"],
+        "contact2": ["Dr Vikas Jetpuria", "9425077045"],
+        "contact3": ["Dr Brahmchari", "9425039784"]
+    },
+    {
+        "name": "Security Paper mill hospital Hoshangabad",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Jitendra Malviya", "8718081083"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Gyanodaya (BTI), hoshangabad",
+        "district": "Hoshangabad",
+        "type": "Government",
+        "contact1": ["Dr Akshay Raghuwanshi", "7354284436"],
+        "contact2": ["Naveen Rajput", "9131939973"],
+        "contact3": ["Prashant Kanojiya", "9301888238"]
+    },
+    {
+        "name": "St. FRANCIS HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["SISTER MONIKA", "8817791966"],
+        "contact2": ["Dr AVINASH", "9425406441"],
+        "contact3": ["SISTER MONIKA", "8817791966"]
+    },
+    {
+        "name": "R K HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr ARVIND", "7223999635"],
+        "contact2": ["Dr ARVIND", "7223999635"],
+        "contact3": ["Dr ARVIND", "7223999635"]
+    },
+    {
+        "name": "MEDIPLUS HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr D P", "9755855888"],
+        "contact2": ["NA", "9755855888"],
+        "contact3": ["NA", "9755855888"]
+    },
+    {
+        "name": "RIYA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "7315485462"],
+        "contact2": ["NA", "7315485462"],
+        "contact3": ["NA", "7315485462"]
+    },
+    {
+        "name": "SUPERSPECIALITY HOSPITAL",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["DR. SUMIT SHUKLA", "7312529000"],
+        "contact2": ["DR. SUMIT SHUKLA", "7312529000"],
+        "contact3": ["DR. SUMIT SHUKLA", "7312529000"]
+    },
+    {
+        "name": "NEW MINESH HOSPITAL RAU",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["HIMANSHU BHARGAV", "9713917441"],
+        "contact2": ["NA", "9713917441"],
+        "contact3": ["NA", "9713917441"]
+    },
+    {
+        "name": "Mayur Hospital and Research Centre , Indore - DCHC",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Nisha", "7389087163"],
+        "contact2": ["Dr", "7389087163"],
+        "contact3": ["Dr", "7389087163"]
+    },
+    {
+        "name": "SUNRISE HOSPITAL TALAWALI CHANDA",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "8871111166"],
+        "contact2": ["NA", "8871111166"],
+        "contact3": ["NA", "8871111166"]
+    },
+    {
+        "name": "MEDISQUARE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "9340632557"],
+        "contact2": ["NA", "9340632557"],
+        "contact3": ["NA", "9340632557"]
+    },
+    {
+        "name": "EUREKA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. VINOD SHARMA", "9993577068"],
+        "contact2": ["NA", "9993577068"],
+        "contact3": ["NA", "9993577068"]
+    },
+    {
+        "name": "Index Medical College and Hospital, Indore - DCH- (Contract)",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["Sudhir Moury", "9685828097"],
+        "contact2": ["Sudhir Moury", "9685828097"],
+        "contact3": ["Sudhir Moury", "9685828097"]
+    },
+    {
+        "name": "SHRI P D SIDDHI VINAYAK",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr SATYENDRA", "7869957097"],
+        "contact2": ["NA", "7869957097"],
+        "contact3": ["NA", "7869957097"]
+    },
+    {
+        "name": "INDORE TRAUMA CENTER",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr RAHUL CHOUDHARY", "7566626474"],
+        "contact2": ["Dr RAHUL CHOUDHARY", "7566626474"],
+        "contact3": ["Dr RAHUL CHOUDHARY", "7566626474"]
+    },
+    {
+        "name": "CCC",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["NA", "7999382007"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "GBL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "9425145386"],
+        "contact2": ["NA", "9425145386"],
+        "contact3": ["NA", "9425145386"]
+    },
+    {
+        "name": "PATEL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr RIZWAN", "9977220123"],
+        "contact2": ["NA", "9977220123"],
+        "contact3": ["NA", "9977220123"]
+    },
+    {
+        "name": "NEW CHEST WARD",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["NA", "7312920757"],
+        "contact2": ["NA", "7312920757"],
+        "contact3": ["NA", "7312920757"]
+    },
+    {
+        "name": "SMS ENERGY HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. RAVI VERMA", "9826064425"],
+        "contact2": ["NA", "9826064425"],
+        "contact3": ["NA", "9826064425"]
+    },
+    {
+        "name": "KARUNA NURSING HOME",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr HEMANT KANSAL", "8989462375"],
+        "contact2": ["NA", "8989462375"],
+        "contact3": ["NA", "8989462375"]
+    },
+    {
+        "name": "EMINENT HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["SANJAY DHANUKA", "9425065865"],
+        "contact2": ["NA", "9425065865"],
+        "contact3": ["NA", "9425065865"]
+    },
+    {
+        "name": "CHL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. PARIHAR", "9826861361"],
+        "contact2": ["AARTI", "7582896912"],
+        "contact3": ["NA", "9826861361"]
+    },
+    {
+        "name": "INDRA MEMORIAL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR AJAY CHOUDHARY", "9826598089"],
+        "contact2": ["NA", "9826598089"],
+        "contact3": ["NA", "9826598089"]
+    },
+    {
+        "name": "TRUE CARE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr RAM PATIDAR", "9926422802"],
+        "contact2": ["NA", "9926422802"],
+        "contact3": ["NA", "9926422802"]
+    },
+    {
+        "name": "VISHESH HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SUNITA", "9826229322"],
+        "contact2": ["NA", "9826229322"],
+        "contact3": ["NA", "9826229322"]
+    },
+    {
+        "name": "SK HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR.VISHAL ARYA", "9806512233"],
+        "contact2": ["DR.VISHAL ARYA", "9806512233"],
+        "contact3": ["DR.VISHAL ARYA", "9806512233"]
+    },
+    {
+        "name": "Gokuldas Hospital, Indore - DCHC",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SANJAY GOKULDAS", "9425065523"],
+        "contact2": ["DR SURENDRA", "9826051212"],
+        "contact3": ["SISTER MINI", "9893478783"]
+    },
+    {
+        "name": "Bombay Hospital",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR.AMIT JOSHI", "8965892204"],
+        "contact2": ["DR.AMIT JOSHI", "8965892204"],
+        "contact3": ["DR.AMIT JOSHI", "8965892204"]
+    },
+    {
+        "name": "Apollo Hospital",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SUSHIL JAIN", "8109216700"],
+        "contact2": ["Ravindra Borker", "9039080111"],
+        "contact3": ["Namita", "9873053252"]
+    },
+    {
+        "name": "SNS HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["MANISH JAIN", "9425050838"],
+        "contact2": ["NA", "9425050838"],
+        "contact3": ["NA", "9425050838"]
+    },
+    {
+        "name": "DASMESH HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR ANIRUDH", "9754366114"],
+        "contact2": ["DR ANIRUDH", "9754366114"],
+        "contact3": ["MONIKA", "9425959247"]
+    },
+    {
+        "name": "Robert Nursing Home",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Sister Minet", "6263793002"],
+        "contact2": ["NA", "6263793002"],
+        "contact3": ["NA", "6263793002"]
+    },
+    {
+        "name": "Getwell Hospital, Indore - DCHC",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr Vivek Dubey", "8395088183"],
+        "contact2": ["NA", "8395088183"],
+        "contact3": ["NA", "8395088183"]
+    },
+    {
+        "name": "ARYAN HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr DEEPAK", "9826013666"],
+        "contact2": ["NA", "9826013666"],
+        "contact3": ["NA", "9826013666"]
+    },
+    {
+        "name": "BHANDARI HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr ANJU CHOUDHARY", "9893559584"],
+        "contact2": ["NA", "9893559584"],
+        "contact3": ["NA", "9893559584"]
+    },
+    {
+        "name": "ANAND HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["PRAVEEN ACHARYA", "9826033538"],
+        "contact2": ["NA", "9826033538"],
+        "contact3": ["NA", "9826033538"]
+    },
+    {
+        "name": "Aurobindo Medical College (PVT)",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Rajeev Singh", "7314231293"],
+        "contact2": ["Na", "7697102102"],
+        "contact3": ["Na", "7697102102"]
+    },
+    {
+        "name": "ALNOOR HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr AZHAR", "9200157595"],
+        "contact2": ["NA", "9200157595"],
+        "contact3": ["NA", "9200157595"]
+    },
+    {
+        "name": "SEHAT HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr RAJEEV KUMAR", "9977849200"],
+        "contact2": ["NA", "9977849200"],
+        "contact3": ["NA", "9977849200"]
+    },
+    {
+        "name": "G D HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR GOKUL DYAL", "9755400832"],
+        "contact2": ["DR GOKUL DYAL", "9755400832"],
+        "contact3": ["DR GOKUL DYAL", "9755400832"]
+    },
+    {
+        "name": "GURUKRIPA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr BAGESH", "9111115020"],
+        "contact2": ["NA", "9111115020"],
+        "contact3": ["NA", "9111115020"]
+    },
+    {
+        "name": "ASTHA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr KUMAR", "9229265630"],
+        "contact2": ["Dr KRISHNA SHARMA", "9981891781"],
+        "contact3": ["Dr KUMOD KUMAR", "9142141245"]
+    },
+    {
+        "name": "UNIVERSAL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr SUMIT SHUKLA", "9300068400"],
+        "contact2": ["NA", "9300068400"],
+        "contact3": ["NA", "9300068400"]
+    },
+    {
+        "name": "GEETANJALI HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. JAGDISH BIRLA", "7000043329"],
+        "contact2": ["NA", "7000043329"],
+        "contact3": ["NA", "7000043329"]
+    },
+    {
+        "name": "TULSI VARDAN HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["ANIL PANDIT", "9893131315"],
+        "contact2": ["NA", "9893131315"],
+        "contact3": ["NA", "9893131315"]
+    },
+    {
+        "name": "LIFECARE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["ASIM ALI", "9752391479"],
+        "contact2": ["Na", "9752391479"],
+        "contact3": ["Na", "9752391479"]
+    },
+    {
+        "name": "MALWA NURSING HOME",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NIKHAR AGRAWAL", "7999594228"],
+        "contact2": ["NA", "7999594228"],
+        "contact3": ["NA", "7999594228"]
+    },
+    {
+        "name": "MRTB (DCH)",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["Dr. Shailendra Jain", "9826969099"],
+        "contact2": ["Dr. Shailendra Jain", "9826969099"],
+        "contact3": ["Dr. Shailendra Jain", "9826969099"]
+    },
+    {
+        "name": "UNIQUE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. RAKESH PATIDAR", "7828035253"],
+        "contact2": ["NA", "7828035253"],
+        "contact3": ["NA", "7828035253"]
+    },
+    {
+        "name": "Shri Arihant Hospital, Indore - DCHC",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr. Prakash Bangani", "7312785172"],
+        "contact2": ["Dr. Prakash Bangani", "7312785172"],
+        "contact3": ["Dr. Prakash Bangani", "7312785172"]
+    },
+    {
+        "name": "BHARAT HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR", "7999761752"],
+        "contact2": ["NA", "7999761752"],
+        "contact3": ["NA", "7999761752"]
+    },
+    {
+        "name": "VADANT HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. ASHISH AGRAWAL", "8319500661"],
+        "contact2": ["NA", "8319500661"],
+        "contact3": ["NA", "8319500661"]
+    },
+    {
+        "name": "SANJEEVANI HOSPITAL RANGWASA",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "9826390138"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "GEETA BHAWAN HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. R K GOUR", "7049993303"],
+        "contact2": ["NA", "7049993303"],
+        "contact3": ["NA", "7049993303"]
+    },
+    {
+        "name": "SYNERGY HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SUBODH JAIN", "9826730066"],
+        "contact2": ["DR. PROMOD SHARMA", "9826226026"],
+        "contact3": ["ANIL SONI", "9229288515"]
+    },
+    {
+        "name": "DHANVANTARI HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr RAJPUT", "7000399014"],
+        "contact2": ["NA", "7000399014"],
+        "contact3": ["NA", "7000399014"]
+    },
+    {
+        "name": "MAHAVEER HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "7312380081"],
+        "contact2": ["NA", "7312626700"],
+        "contact3": ["NA", "7312626700"]
+    },
+    {
+        "name": "VARNIT HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr KRISHNKANT JOSHI", "9977113341"],
+        "contact2": ["NA", "9977113341"],
+        "contact3": ["NA", "9977113341"]
+    },
+    {
+        "name": "Aurobindo Medical College and Hospital (CONTRACT)",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["Rajeev Singh", "7314231293"],
+        "contact2": ["Rajeev Singh", "7697102102"],
+        "contact3": ["Rajeev Singh", "7697102102"]
+    },
+    {
+        "name": "SNG HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["VIPIN KHANDWAL", "9691449791"],
+        "contact2": ["Dr DEEPAK GURJAR", "9691449791"],
+        "contact3": ["DINESH SHEVLIYA", "6265280009"]
+    },
+    {
+        "name": "Suyash Hospital, Indore - DCHC",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. MANOJ KUMAR", "7312493911"],
+        "contact2": ["Na", "7312493911"],
+        "contact3": ["Na", "7312493911"]
+    },
+    {
+        "name": "PHOENIX HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr H K BIRLA", "9826646461"],
+        "contact2": ["NA", "9826646461"],
+        "contact3": ["NA", "9826646461"]
+    },
+    {
+        "name": "DNS HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["MANOJ CHOUDHARY", "9893352411"],
+        "contact2": ["Dr. Rajesh Jain", "9826052465"],
+        "contact3": ["Mr Manish Sanghvi", "9425319700"]
+    },
+    {
+        "name": "CLOTH MARKET HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. RAVI PUNJABI", "9926611405"],
+        "contact2": ["DR. RAVI PUNJABI", "9926611405"],
+        "contact3": ["DR. RAVI PUNJABI", "9926611405"]
+    },
+    {
+        "name": "APPLE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. M K SHARMA", "9893122274"],
+        "contact2": ["NA", "9893122274"],
+        "contact3": ["NA", "9893122274"]
+    },
+    {
+        "name": "MTH (DCH)",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["Dr.ANUPAMA DAVE", "7312920757"],
+        "contact2": ["NA", "7312920757"],
+        "contact3": ["NA", "7312920757"]
+    },
+    {
+        "name": "BIRLA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["GOLU PATEL", "9669827283"],
+        "contact2": ["GOLU PATEL", "9669827283"],
+        "contact3": ["GOLU PATEL", "9669827283"]
+    },
+    {
+        "name": "SUNRISE HOSPITAL RAJENDRA NAGAR",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr SURENDRA SINGH", "9826063547"],
+        "contact2": ["NA", "9826063547"],
+        "contact3": ["NA", "9826063547"]
+    },
+    {
+        "name": "V CARE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr SISODIYA", "9039558222"],
+        "contact2": ["NA", "9039558222"],
+        "contact3": ["NA", "9039558222"]
+    },
+    {
+        "name": "CURE WELL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["SHUKDEV", "9644433342"],
+        "contact2": ["NA", "9644433342"],
+        "contact3": ["NA", "9644433342"]
+    },
+    {
+        "name": "MEWADA MEDICARE AND EYECARE HOSPITAL MHOW",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. RAHUL MEWADA", "9827024802"],
+        "contact2": ["NA", "9827024802"],
+        "contact3": ["NA", "9827024802"]
+    },
+    {
+        "name": "CHOITHRAM HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SURESH KALTAN", "9425065523"],
+        "contact2": ["NA", "9425065523"],
+        "contact3": ["NA", "9425065523"]
+    },
+    {
+        "name": "VERMA UNION HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. AMIT SHARMA", "7000912260"],
+        "contact2": ["NA", "7000912260"],
+        "contact3": ["NA", "7000912260"]
+    },
+    {
+        "name": "SHALBY HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. RITU NIKITA", "7049918767"],
+        "contact2": ["NA", "7049918767"],
+        "contact3": ["NA", "7049918767"]
+    },
+    {
+        "name": "MULTANI HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["NA", "9755521555"],
+        "contact2": ["NA", "9755521555"],
+        "contact3": ["NA", "9755521555"]
+    },
+    {
+        "name": "BANTHIYA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR ANSHUL", "9977030333"],
+        "contact2": ["PRAFULL BHANTHIA", "9669680007"],
+        "contact3": ["SAKSHI SONI", "8839582105"]
+    },
+    {
+        "name": "MEDICARE HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr MUNDRA", "9425059496"],
+        "contact2": ["NA", "7314271600"],
+        "contact3": ["NA", "9425059496"]
+    },
+    {
+        "name": "SUYOG HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr ANIL BAHETI", "9425060134"],
+        "contact2": ["NA", "9425060134"],
+        "contact3": ["NA", "9425060134"]
+    },
+    {
+        "name": "GAURAV HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR.PARAMPREET SAINI", "9644000022"],
+        "contact2": ["NA", "9644000022"],
+        "contact3": ["NA", "9644000022"]
+    },
+    {
+        "name": "BAPAT HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr BAPAT", "9826057666"],
+        "contact2": ["NA", "9826057666"],
+        "contact3": ["NA", "9826057666"]
+    },
+    {
+        "name": "GURJAR HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["MR. RAJKUMAR", "9993172869"],
+        "contact2": ["MR. RAJKUMAR", "9993172869"],
+        "contact3": ["MR. RAJKUMAR", "9993172869"]
+    },
+    {
+        "name": "TIWARI HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["SHAURABH TIWARI", "9826095677"],
+        "contact2": ["Dr ANUPAM TIWARI", "8103276009"],
+        "contact3": ["Dr RAKESH", "7974947133"]
+    },
+    {
+        "name": "CIVIL HOSPITAL MHOW",
+        "district": "Indore",
+        "type": "Government",
+        "contact1": ["Dr HANSHRAJ VARMA", "9977273709"],
+        "contact2": ["NA", "9977273709"],
+        "contact3": ["NA", "9977273709"]
+    },
+    {
+        "name": "CHARAK HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr ANKUSH", "7987249190"],
+        "contact2": ["Dr AJAY DONGRE", "7999193038"],
+        "contact3": ["Dr SUBHANGI", "7389893672"]
+    },
+    {
+        "name": "LAKSHMI MEMORIAL HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr SHARAD", "9424577069"],
+        "contact2": ["NA", "9424577069"],
+        "contact3": ["NA", "9424577069"]
+    },
+    {
+        "name": "SAI HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr PROMOD SHUKLA", "7000471476"],
+        "contact2": ["Dr PROMOD SHUKLA", "7000471476"],
+        "contact3": ["Dr PROMOD SHUKLA", "7000471476"]
+    },
+    {
+        "name": "GREATER KAILASH HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SEEMA GUPTA", "9826776168"],
+        "contact2": ["NA", "9826776168"],
+        "contact3": ["NA", "9826776168"]
+    },
+    {
+        "name": "MASC HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr ARVIND SHUKLA", "9826463370"],
+        "contact2": ["NA", "9826463370"],
+        "contact3": ["NA", "9826463370"]
+    },
+    {
+        "name": "MEDANTA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["DR. SANJAY", "9826046644"],
+        "contact2": ["DR CP SHARMA", "9589111141"],
+        "contact3": ["DR CP SHARMA", "9589111141"]
+    },
+    {
+        "name": "ADITYA HOSPITAL",
+        "district": "Indore",
+        "type": "Private",
+        "contact1": ["Dr GUNJAN", "7747007001"],
+        "contact2": ["NA", "7747007001"],
+        "contact3": ["NA", "7747007001"]
+    },
+    {
+        "name": "J.K HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Dr Ahluwaliya", "9826153333"],
+        "contact2": ["Dr Ahluwaliya", "9826153333"],
+        "contact3": ["Dr Ahluwaliya", "9826153333"]
+    },
+    {
+        "name": "GLOBAL HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MR ABDUL HANNAN", "9826392278"],
+        "contact2": ["MR ABDUL HANNAN", "9826392278"],
+        "contact3": ["MR ABDUL HANNAN", "9826392278"]
+    },
+    {
+        "name": "Sanskardhani Hospital",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Mr Manoj Mishra", "9926411330"],
+        "contact2": ["Dr Vivek golcha", "7000407454"],
+        "contact3": ["Dr Vivek golcha", "9893268123"]
+    },
+    {
+        "name": "SHALBY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR ATUL SINGH", "7869500602"],
+        "contact2": ["MR. JAY", "9424926062"],
+        "contact3": ["SHALBY HOSPITAL", "9575801200"]
+    },
+    {
+        "name": "MAHAKOSHAL HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["SANJEEV SHRIVASTAVA", "7828533305"],
+        "contact2": ["SANJEEV SHRIVASTAVA", "7828533305"],
+        "contact3": ["SANJEEV SHRIVASTAVA", "7828533305"]
+    },
+    {
+        "name": "LIFE MEDICITY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["CHANCHAL KAUR", "9757288301"],
+        "contact2": ["DR VIKRAM ADITYA SINGH", "7987437479"],
+        "contact3": ["MR NILANJAN NANDI", "9131060089"]
+    },
+    {
+        "name": "ADITYA HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["KALPANA VERMA", "9826637759"],
+        "contact2": ["ANKIT JAIN", "7987534362"],
+        "contact3": ["ANKIT JAIN", "9179833444"]
+    },
+    {
+        "name": "SIDDHI VINAYAK HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR ROHIT JAAT", "8770718631"],
+        "contact2": ["DR ROHIT JAAT", "8770718631"],
+        "contact3": ["DR ROHIT JAAT", "8770718631"]
+    },
+    {
+        "name": "PANDEY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MR. NARAYAN", "9669084809"],
+        "contact2": ["ABRAR AHMED", "8770677897"],
+        "contact3": ["DEVENDRA SHARMA", "9009975402"]
+    },
+    {
+        "name": "JAMDAR HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["SANTOSH KATULKAR", "8959318933"],
+        "contact2": ["SANTISH KATULKAR", "8959318933"],
+        "contact3": ["SANTOSH KATULKAR", "8959318933"]
+    },
+    {
+        "name": "TRUECARE HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR ANIL PATEL", "9098549980"],
+        "contact2": ["Anil", "9098549980"],
+        "contact3": ["patel", "9098549980"]
+    },
+    {
+        "name": "MEDICARE HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DEEPAK SONI", "9302071919"],
+        "contact2": ["DEEPAK", "9302071919"],
+        "contact3": ["Soni", "9302071919"]
+    },
+    {
+        "name": "STAR HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["KAMAL SINGH", "9179822605"],
+        "contact2": ["KAMAL SINGH", "9179822605"],
+        "contact3": ["KAMAL SINGH", "9179822605"]
+    },
+    {
+        "name": "ORDINANCE FACTORY KHAMARIA DCHC",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["DR VISHWAS KHAMARIYA", "8332999335"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Sukh sagar medical college",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Dr khanna", "7024166099"],
+        "contact2": ["RAJ SWAMI", "9981120590"],
+        "contact3": ["RAJ SWAMI", "9981120590"]
+    },
+    {
+        "name": "JEEVAN JYOTI HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Ajay vishwakarma", "7987471929"],
+        "contact2": ["Ajay vishwakarma", "9827397314"],
+        "contact3": ["Ajay vishwakarma", "9827397314"]
+    },
+    {
+        "name": "GOLCHA HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR BABITA DAHIYA", "9691222290"],
+        "contact2": ["DR BABITA DAHIYA", "7987945807"],
+        "contact3": ["DR VIMAL GOLCHHA", "9826115687"]
+    },
+    {
+        "name": "ASHISH HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Pankaj Pathak", "9685302128"],
+        "contact2": ["Pankaj Pathak", "9685302128"],
+        "contact3": ["Pankaj Pathak", "9685302128"]
+    },
+    {
+        "name": "PG MULTISPECIALITY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["VISHWAS CHOUHAN", "9755611666"],
+        "contact2": ["SUDDEP", "9826119457"],
+        "contact3": ["VISHWAS CHOUHAN", "9826119457"]
+    },
+    {
+        "name": "SAPTRISHI HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR KAVITA DUBEY", "9631576656"],
+        "contact2": ["DR KAVITA DUBEY", "9631576656"],
+        "contact3": ["DR KAVITA DUBEY", "9631576656"]
+    },
+    {
+        "name": "SMART CITY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR. AMIT KHARE", "7999602301"],
+        "contact2": ["DR. AMIT KHARE", "7999602301"],
+        "contact3": ["DR. AMIT KHARE", "7999602301"]
+    },
+    {
+        "name": "DH Jabalpur - DCHC",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["Dr.Sanjay Jain", "9425863999"],
+        "contact2": ["Dr.Sanjay Jain", "9425863999"],
+        "contact3": ["Dr.Sanjay Jain", "9425863999"]
+    },
+    {
+        "name": "BHANDARI HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MD KHURSEED", "7477234268"],
+        "contact2": ["MD KHURSEED", "7477234268"],
+        "contact3": ["MD KHURSEED", "7477234268"]
+    },
+    {
+        "name": "VEHICLE FACTORY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["DR GREGORY", "9425150754"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "BEST SUPER SPECIALTY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Movin parera", "8349845828"],
+        "contact2": ["Rajendra Rajak", "9827363500"],
+        "contact3": ["Dr. Wasim Akram", "8518958060"]
+    },
+    {
+        "name": "Sanjeevan Hospital",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR AMIT GOUR", "9993966662"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CITY HOSPITAL AND RESEARCH CENTER",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MR A CHAKRAVORTY", "9752413300"],
+        "contact2": ["MS SONIA", "9329560951"],
+        "contact3": ["MS SAPNA", "9977613470"]
+    },
+    {
+        "name": "BUDHOLIA HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["AKASH NAMDEO", "9630876068"],
+        "contact2": ["ANNAPURNA BADHOLIYA", "9424916289"],
+        "contact3": ["AKHILESH TIWARI", "9407852706"]
+    },
+    {
+        "name": "GALAXY SS HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["ANIKET JAIN", "8435002300"],
+        "contact2": ["ANIKET JAIN", "8435002300"],
+        "contact3": ["ANIKET JAIN", "8435002300"]
+    },
+    {
+        "name": "BOMBAY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["JAGDISH MANISH", "8878848672"],
+        "contact2": ["JAGDISH MANISH", "8878848672"],
+        "contact3": ["JAGDISH MANISH", "8878848672"]
+    },
+    {
+        "name": "Life Care ICU",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["Vishwas Chouhan", "9713211666"],
+        "contact2": ["Dr Neha Chansoria", "8839636048"],
+        "contact3": ["Dr Abhijeet mukherjee", "7000361866"]
+    },
+    {
+        "name": "CCC GOVT",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["DR DJ MOHANTY", "9425472414"],
+        "contact2": ["DR DJ MOHANTY", "9425472414"],
+        "contact3": ["DR DJ MOHANTY", "9425472414"]
+    },
+    {
+        "name": "ANANT HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR. MUKUL NEMA", "9303099434"],
+        "contact2": ["DR. MUKUL NEMA", "9303099434"],
+        "contact3": ["DR. MUKUL NEMA", "9303099434"]
+    },
+    {
+        "name": "METRO HOSPITAL JABALPUR",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MR SUNIL ASATI", "9575300103"],
+        "contact2": ["sunil", "9575300103"],
+        "contact3": ["Asati sunil", "9575300103"]
+    },
+    {
+        "name": "GMC, Jabalpur - DCH",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["DR SANJAY BHARTI", "9584262358"],
+        "contact2": ["DR SANJAY BHARTI", "9584262358"],
+        "contact3": ["DR SANJAY BHARTI", "9584262358"]
+    },
+    {
+        "name": "REVANTA HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MANOJ BHARADWAJ", "7000347820"],
+        "contact2": ["MANOJ BHARADWAJ", "7000347820"],
+        "contact3": ["MANOJ BHARADWAJ", "7000347820"]
+    },
+    {
+        "name": "GOVT.AYURVEDIC HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["DR AHIRWAR", "8770227619"],
+        "contact2": ["DR AHIRWAR", "8770227619"],
+        "contact3": ["DR AHIRWAR", "8770227619"]
+    },
+    {
+        "name": "Central Railway Hospital",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["Dr. Sandeep Chauhan", "9752415507"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SHITAL CHHAYA HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["SHISHIR PANDEY", "9329711821"],
+        "contact2": ["SHISHIR PANDEY", "9329711821"],
+        "contact3": ["SHISHIR PANDEY", "9329711821"]
+    },
+    {
+        "name": "NEW LIFE",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["SURESH PATEL", "9479450650"],
+        "contact2": ["SURESH PATEL", "9479450650"],
+        "contact3": ["SURESH PATEL", "9479450650"]
+    },
+    {
+        "name": "MANMOHAN NAGAR HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Government",
+        "contact1": ["DR. S.P SINGH", "9425387372"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SHREE SHUBHAM HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MANEESH SHARMA", "9329486447"],
+        "contact2": ["AJAY SONI", "9479450650"],
+        "contact3": ["SANTOSH SONI", "9589101020"]
+    },
+    {
+        "name": "KOTHARI HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR KOTHARI", "9827226710"],
+        "contact2": ["DR KOTHARI", "9827226710"],
+        "contact3": ["DR KOTHARI", "9827226710"]
+    },
+    {
+        "name": "MARBLE CITY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DR SANJAY NAGRAJ", "9300110650"],
+        "contact2": ["SIDDHARTH RAMTEKE", "9329988933"],
+        "contact3": ["SIDDHARTH RAMTEKE", "9329988933"]
+    },
+    {
+        "name": "National Hospital",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MR RAJU RAJPOOT", "9425861820"],
+        "contact2": ["Raju", "9425861820"],
+        "contact3": ["Raju", "9425861820"]
+    },
+    {
+        "name": "CENTRAL INDIA KIDNEY HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["KAMLESHWAR MEHTO", "9407349816"],
+        "contact2": ["KAMLESHWAR MEHTO", "9407349816"],
+        "contact3": ["KAMLESHWAR MEHTO", "9407349816"]
+    },
+    {
+        "name": "MOHAN LAL HARGOVINDDAS HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["MR AGESH TIWARI", "9329123479"],
+        "contact2": ["SANT LAL", "6261202288"],
+        "contact3": ["MOHAN LAL HOSP", "6261202288"]
+    },
+    {
+        "name": "JABALPUR HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["BRAJESH TIWARI", "9981503902"],
+        "contact2": ["BRAJESH TIWARI", "9981503902"],
+        "contact3": ["BRAJESH TIWARI", "9981503902"]
+    },
+    {
+        "name": "TAKIRAZA HEALTHCARE CENTRE",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["SYED MERAJ AHMED", "9302928962"],
+        "contact2": ["DR. MEHMUDA SULTANA RAZA", "8962328816"],
+        "contact3": ["FALAK RAZA", "9131337314"]
+    },
+    {
+        "name": "SWASTIK HOSPITAL",
+        "district": "Jabalpur",
+        "type": "Private",
+        "contact1": ["DHAWAL DEKHANE", "9752234415"],
+        "contact2": ["SWASTIK HOSP", "8461884444"],
+        "contact3": ["SWASTIK HOSP", "8462884444"]
+    },
+    {
+        "name": "CH- Petlawad",
+        "district": "Jhabua",
+        "type": "Government",
+        "contact1": ["Dr M.L Chopra", "9893678040"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Others Private Hospital",
+        "district": "Jhabua",
+        "type": "Private",
+        "contact1": ["Dr L S RATHORE", "9425101288"],
+        "contact2": ["DR JAY PATIDAR", "9179119671"],
+        "contact3": ["Mr Lov", "9589399999"]
+    },
+    {
+        "name": "DH - Jhabua",
+        "district": "Jhabua",
+        "type": "Government",
+        "contact1": ["Dr. Yojesh Ajnar", "8827744338"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CCC- ITI THANDLA",
+        "district": "Jhabua",
+        "type": "Government",
+        "contact1": ["DR ANIL RATHORE", "9770388117"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CCC- HAWAI PATTI",
+        "district": "Jhabua",
+        "type": "Government",
+        "contact1": ["DR SAWAN SINGH CHOUHAN", "9893777416"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CH Vijayraghavgarh",
+        "district": "Katni",
+        "type": "Government",
+        "contact1": ["Dr Vinod Kumar", "9893197799"],
+        "contact2": ["Dr Vinod Kumar", "9893197799"],
+        "contact3": ["Dr Vinod Kumar", "9893197799"]
+    },
+    {
+        "name": "DH Katni - DCHC",
+        "district": "Katni",
+        "type": "Government",
+        "contact1": ["Dr Yeshwant verma", "8889642500"],
+        "contact2": ["Dr Yeshwant verma", "8889642500"],
+        "contact3": ["Dr Yeshwant verma", "8889642500"]
+    },
+    {
+        "name": "Dharmalok Private Hospital Katni - DCHC",
+        "district": "Katni",
+        "type": "Private",
+        "contact1": ["Dr Rajesh Battra", "9630995570"],
+        "contact2": ["Dr Rajesh Battra", "9630995570"],
+        "contact3": ["Dr Rajesh Battra", "9630995570"]
+    },
+    {
+        "name": "Baba Madhavshah Chikitsalaya",
+        "district": "Katni",
+        "type": "Private",
+        "contact1": ["Mr Ajay Behrwani", "9165051307"],
+        "contact2": ["Dr Baldev Singh", "9981015197"],
+        "contact3": ["Mr Devanand Asrani", "9300513713"]
+    },
+    {
+        "name": "MGM",
+        "district": "Katni",
+        "type": "Private",
+        "contact1": ["Dr Ravi kumar", "9584916923"],
+        "contact2": ["Dr Ravi kumar", "9584916923"],
+        "contact3": ["Dr Ravi kumar", "9584916923"]
+    },
+    {
+        "name": "Chandak Hospital",
+        "district": "Katni",
+        "type": "Private",
+        "contact1": ["Dr Manish Gattani", "9425324188"],
+        "contact2": ["Dr Manish Gattani", "9425324188"],
+        "contact3": ["Dr Manish Gattani", "9425324188"]
+    },
+    {
+        "name": "SC Senior New Boys Hostel Camp Katni",
+        "district": "Katni",
+        "type": "Government",
+        "contact1": ["dr kartike pathak", "9424708473"],
+        "contact2": ["DR PRADEEP", "7000426291"],
+        "contact3": ["DR VERMA", "8889642500"]
+    },
+    {
+        "name": "DH-KHANDWA GOVT DCHC",
+        "district": "Khandwa",
+        "type": "Government",
+        "contact1": ["Dr.Sunil Bajoliya", "9713971861"],
+        "contact2": ["Dr. Mohit Garg", "9111393588"],
+        "contact3": ["Dr. Pankaj jain", "9827785717"]
+    },
+    {
+        "name": "GMC - Khandwa - DCH",
+        "district": "Khandwa",
+        "type": "Government",
+        "contact1": ["DR RANJIT BADOLE", "9424008088"],
+        "contact2": ["DR RANJIT BADOLE", "9424008088"],
+        "contact3": ["DR RANJIT BADOLE", "9424008088"]
+    },
+    {
+        "name": "RITWIK HOSPITAL & RESEARCH CENTRE SANAWAD",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["Ajay jaiswal", "7049905639"],
+        "contact2": ["AJAY BADWALA", "9575661307"],
+        "contact3": ["AJAY BADWALA", "9575661307"]
+    },
+    {
+        "name": "SONAA MAA NURSING HOME KHARGONE",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["DR RAVISH SARAF", "9407494894"],
+        "contact2": ["CHANDAN DASONDHI", "9131593101"],
+        "contact3": ["CHANDAN DASONDHI", "9131593101"]
+    },
+    {
+        "name": "Subhishi Hospital",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["DR SHAKIL KHAN", "9039837881"],
+        "contact2": ["MOHIT PANDIA", "9425087200"],
+        "contact3": ["ANIL PATIDAR", "9826504264"]
+    },
+    {
+        "name": "NAVJEEVAN HOSPITAL KASRAWAD",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["DR PRADEEP VERMA", "8208301224"],
+        "contact2": ["DR PRADEEP VERMA", "8208301224"],
+        "contact3": ["DR PRADEEP VERMA", "8208301224"]
+    },
+    {
+        "name": "Gurjar Shri Hospital Sanawad",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["Dr. Sudhir Mourya", "9685820097"],
+        "contact2": ["Dr. Sudhir Mourya", "9685820097"],
+        "contact3": ["Dr. Sudhir Mourya", "9685820097"]
+    },
+    {
+        "name": "CCC SANAWAD",
+        "district": "Khargone",
+        "type": "Government",
+        "contact1": ["DR HANSHA PATIDAR", "9111470601"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Shri Dada Darbar Hospital Barwah",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["ABHISHEK JAIN", "7999756922"],
+        "contact2": ["ABHISHEK JAIN", "7999756922"],
+        "contact3": ["ABHISHEK JAIN", "7999756922"]
+    },
+    {
+        "name": "GOVT. GIRLS HOSTEL, UMARKHALI ROAD KHARGONE (CCC)",
+        "district": "Khargone",
+        "type": "Government",
+        "contact1": ["Dr Vidhi Tiwari", "8458986245"],
+        "contact2": ["Dr Sandeep Gupta", "9893642696"],
+        "contact3": ["Dr Niraj Chouhan", "9009982805"]
+    },
+    {
+        "name": "DH - khargone",
+        "district": "Khargone",
+        "type": "Government",
+        "contact1": ["DR Harsh Mahajan", "6265039558"],
+        "contact2": ["DR DEEPAK", "9685122068"],
+        "contact3": ["DR DEEPAK", "9685122068"]
+    },
+    {
+        "name": "Sai Samarth Hospital",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["Roshni Malviya", "9165391338"],
+        "contact2": ["Roshni Malviya", "9165391338"],
+        "contact3": ["Roshni Malviya", "9165391338"]
+    },
+    {
+        "name": "Shri Sai Hospital Sanawad",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["Dr. Ajay Malviya", "9826856222"],
+        "contact2": ["Dr. Ajay Malviya", "9826856222"],
+        "contact3": ["Dr. Ajay Malviya", "9826856222"]
+    },
+    {
+        "name": "CCC Maheshwar",
+        "district": "Khargone",
+        "type": "Government",
+        "contact1": ["Vimal vandavde", "7067348179"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CCC KASRAWAD",
+        "district": "Khargone",
+        "type": "Government",
+        "contact1": ["DEEPAK NARIYA", "8319193500"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Late Shri Natthulalji Mori Memorial Hospital Pvt Ltd, Sanawad",
+        "district": "Khargone",
+        "type": "Private",
+        "contact1": ["Dr. Sonal Pagare", "9425279142"],
+        "contact2": ["Dr. Sonal Pagare", "9425279142"],
+        "contact3": ["Dr. Sonal Pagare", "9425279142"]
+    },
+    {
+        "name": "GNM Training Center Mandla",
+        "district": "Mandla",
+        "type": "Government",
+        "contact1": ["Mrs Meena Choudhary", "9755904134"],
+        "contact2": ["Mrs Meena Choudhary", "9755904134"],
+        "contact3": ["Mrs Meena Choudhary", "9755904134"]
+    },
+    {
+        "name": "DH Mandla - DCHC",
+        "district": "Mandla",
+        "type": "Government",
+        "contact1": ["Dr Manoj Murali", "7000540484"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Covid Care Centre Mandaur",
+        "district": "Mandsaur",
+        "type": "Government",
+        "contact1": ["Dr Ikrar Mansuri", "9827723777"],
+        "contact2": ["Bihari Singh", "8770323945"],
+        "contact3": ["Kanhiyallal Patidar", "9754614270"]
+    },
+    {
+        "name": "Covid Care Centre Garoth",
+        "district": "Mandsaur",
+        "type": "Government",
+        "contact1": ["Dr VK Verma", "9425976170"],
+        "contact2": ["Dr VK Verma", "9425976170"],
+        "contact3": ["Dr VK Verma", "9425976170"]
+    },
+    {
+        "name": "DH Mandsaur - DCHC",
+        "district": "Mandsaur",
+        "type": "Government",
+        "contact1": ["Dr. D.K. Sharma", "9406853788"],
+        "contact2": ["Dr Rajesh Borana", "9644095039"],
+        "contact3": ["Dr K K Suhil", "9098660530"]
+    },
+    {
+        "name": "Covid Care Centre Malhargarh ( Girls Hostel )",
+        "district": "Mandsaur",
+        "type": "Government",
+        "contact1": ["Dr R.K. Khadyot", "9993357287"],
+        "contact2": ["Manish Parmar", "9893193985"],
+        "contact3": ["Rajendra Guthariya", "7024346092"]
+    },
+    {
+        "name": "SPA Private Covid Health Centre Mandsaur",
+        "district": "Mandsaur",
+        "type": "Private",
+        "contact1": ["Nirmal Gangwani", "8349207947"],
+        "contact2": ["Raju Kumawat", "6263052410"],
+        "contact3": ["Dr Abhinav Parikh", "9301892221"]
+    },
+    {
+        "name": "Kasturwa gov Hostel Morena",
+        "district": "Morena",
+        "type": "Government",
+        "contact1": ["Dr Ashok kumar Gupta", "9425340049"],
+        "contact2": ["URMILA SAIMIL", "9691716719"],
+        "contact3": ["MANOJ SINGH TOMAR", "7000793482"]
+    },
+    {
+        "name": "GARG NURSING HOME MORENA",
+        "district": "Morena",
+        "type": "Private",
+        "contact1": ["MANOJ GARG", "9425328910"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Morena - DCHC",
+        "district": "Morena",
+        "type": "Government",
+        "contact1": ["Dr. A.K. Gupta", "9425340049"],
+        "contact2": ["Dr DHARMENDRA GUPTA", "9826654923"],
+        "contact3": ["DR MAHESH SAHARMA", "8989562289"]
+    },
+    {
+        "name": "R L HOSPITAL, TEKARI, MORENA",
+        "district": "Morena",
+        "type": "Private",
+        "contact1": ["DR. K N MISHRA", "9826240785"],
+        "contact2": ["DR. ASHISH JADON", "9827049024"],
+        "contact3": ["DR. VIVEK MISHRA", "9425127730"]
+    },
+    {
+        "name": "JIVAN JYOTI HOSPITAL NTPC GADARWARA",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR VIDYA SABDE", "8004941289"],
+        "contact2": ["DR MILENDRA SHAVDE", "9109194494"],
+        "contact3": ["DR VIDYA SABDE", "9109194494"]
+    },
+    {
+        "name": "GIRLS HOSTEL P.G.COLLEGE NARSINGHPUR",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR YASHEEN KHAN", "9755434786"],
+        "contact2": ["RAINA TAMIYA", "9516972656"],
+        "contact3": ["VINITA SAHU", "9826452150"]
+    },
+    {
+        "name": "CIVIL HOSPITAL GADARWARA",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR RAKESH BOHRE", "7828252913"],
+        "contact2": ["DR.RAM KISHORE PATEL", "9691838502"],
+        "contact3": ["DR. KRISHNA MANOHAR DANGI", "9039457265"]
+    },
+    {
+        "name": "SEN. ANUSUCHIT JATI CHTRAWASH TENDUKHEDA",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR S P AHIRWAR", "8319131512"],
+        "contact2": ["DR S P AHIRWAR", "8319131512"],
+        "contact3": ["DR S P AHIRWAR", "8319131512"]
+    },
+    {
+        "name": "DH Narsinghpur - DCHC",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR. ANITA AGRAWAL", "9303717927"],
+        "contact2": ["DR. RAJENDRA DHERIYA", "9977867151"],
+        "contact3": ["SANJAY JHARIYA", "7067954010"]
+    },
+    {
+        "name": "AGRAWAL HOSPITAL CCC NARASINGHPUR",
+        "district": "Narsinghpur",
+        "type": "Private",
+        "contact1": ["DR S K AGRAWAL", "7947343343"],
+        "contact2": ["DR SACHIN GOYAL", "8770236277"],
+        "contact3": ["ALIYA MEDAM", "7898505400"]
+    },
+    {
+        "name": "PARADKAR HOSPITAL NARSINGHPUR",
+        "district": "Narsinghpur",
+        "type": "Private",
+        "contact1": ["DR PRAG PRADKAR", "9425168701"],
+        "contact2": ["DR PARADKAR", "7792235103"],
+        "contact3": ["MITHLESH PARADKAR", "9584973055"]
+    },
+    {
+        "name": "NEEKHRA HOSPITAL CCC NARSINGHPUR",
+        "district": "Narsinghpur",
+        "type": "Private",
+        "contact1": ["DR NEEKHRA", "9425168516"],
+        "contact2": ["NIKHARA HOSPITAL", "7792232316"],
+        "contact3": ["DR NEEKHRA", "9425168516"]
+    },
+    {
+        "name": "NRLM BHAWAN CCC SAIKHEDA",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR JAGDESH VARMA", "9977577066"],
+        "contact2": ["DR.ABHA SALANI", "7240932704"],
+        "contact3": ["KEDAR SHRIVAS", "8462875550"]
+    },
+    {
+        "name": "ADIVASHI GIRLS HOSTEL KUMRAKHEDA BLOCK GOTEGAON CCC",
+        "district": "Narsinghpur",
+        "type": "Government",
+        "contact1": ["DR. N.K. MAHALWAR", "9425169474"],
+        "contact2": ["PANKAJ MISHRA", "9425344560"],
+        "contact3": ["MUKESH DUBEY", "9329661472"]
+    },
+    {
+        "name": "K.G.B. CHHATRAWAS, Neemuch",
+        "district": "Neemuch",
+        "type": "Government",
+        "contact1": ["Dr. Ashish Jain", "9907773719"],
+        "contact2": ["ROHIT", "7828937618"],
+        "contact3": ["DHARMENDRA", "8085131511"]
+    },
+    {
+        "name": "CHORDIYA HOSPITAL",
+        "district": "Neemuch",
+        "type": "Private",
+        "contact1": ["DR. S.V CHORDIA", "9424856022"],
+        "contact2": ["HARSHIT MINHAS", "9589619744"],
+        "contact3": ["OM PRAKASH MALVIYA", "7869148503"]
+    },
+    {
+        "name": "DH Neemuch - DCHC",
+        "district": "Neemuch",
+        "type": "Government",
+        "contact1": ["DR. B.L. RAWAT CS", "9425371000"],
+        "contact2": ["DR. MANISH YADAV RMO", "9826455179"],
+        "contact3": ["SUNITA BHURIYA WARD INCHARGE", "9770789301"]
+    },
+    {
+        "name": "CRPF Hospital",
+        "district": "Neemuch",
+        "type": "Government",
+        "contact1": ["Dr M.K. Sinha", "8600356732"],
+        "contact2": ["Si pappu choudhary", "8949789765"],
+        "contact3": ["Dr sanjay jain", "9755742852"]
+    },
+    {
+        "name": "CARE WELL COVID CENTER",
+        "district": "Neemuch",
+        "type": "Private",
+        "contact1": ["DR.NILESH PATIDAR", "9405517248"],
+        "contact2": ["MR.RAHUL JI MITTAL", "9630208222"],
+        "contact3": ["MR.SHARD JI BARDIA", "9425974301"]
+    },
+    {
+        "name": "PG College, Niwari",
+        "district": "Niwari",
+        "type": "Government",
+        "contact1": ["Dr Zoyeb khan", "7024643436"],
+        "contact2": ["Dr Megha Gupta", "8770660172"],
+        "contact3": ["Ram Vishal Ahirwar", "7024059677"]
+    },
+    {
+        "name": "DH Panna - DCHC",
+        "district": "Panna",
+        "type": "Government",
+        "contact1": ["DR. PRADEEP DWIVEDI", "9179228727"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Sbi training centre bypass road panna",
+        "district": "Panna",
+        "type": "Government",
+        "contact1": ["Dr G. p. arya", "9981531998"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DCHC -Mother Teresa Hospital Panna",
+        "district": "Panna",
+        "type": "Private",
+        "contact1": ["DR BABUS JOSH", "7022592358"],
+        "contact2": ["Fr shinu", "8989869441"],
+        "contact3": ["dr jwel", "8394841020"]
+    },
+    {
+        "name": "JAIRAM HOSPITAL AND RESEARCH CENTER,MANDIDEEP",
+        "district": "Raisen",
+        "type": "Private",
+        "contact1": ["DR MANISH MARAN", "7000727271"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Ganga Multispeciality Hospital Mandideeep Dist.Raisen",
+        "district": "Raisen",
+        "type": "Private",
+        "contact1": ["Dr.R.V.Singh", "9981992632"],
+        "contact2": ["Dr.R.V.Singh", "8085864518"],
+        "contact3": ["Dr.Naznee", "9981997401"]
+    },
+    {
+        "name": "AROGYA HOSPITAL MANDIDEEP",
+        "district": "Raisen",
+        "type": "Private",
+        "contact1": ["ABHILASH TRIPATHI nodal officer", "7067232626"],
+        "contact2": ["RAJENDRA NAGAR", "9200707777"],
+        "contact3": ["ABHIJEET PATIL", "8527644818"]
+    },
+    {
+        "name": "DH, Raisen - DCHC",
+        "district": "Raisen",
+        "type": "Government",
+        "contact1": ["Dr M L Ahirwar", "9425050799"],
+        "contact2": ["dr.vinod parmar", "7879995353"],
+        "contact3": ["dr. a k sharma", "9425492774"]
+    },
+    {
+        "name": "ASHA HOSPITAL, MANDIDEEP",
+        "district": "Raisen",
+        "type": "Private",
+        "contact1": ["M AAADIL BEG Nodal officer", "9111333122"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CHC SILWANI",
+        "district": "Raisen",
+        "type": "Government",
+        "contact1": ["BHARAT SINGH GURJAR", "7879184794"],
+        "contact2": ["SHAILENDRA SHARMA", "9755437434"],
+        "contact3": ["DR HN MANDRE", "9977056802"]
+    },
+    {
+        "name": "CHC Udaipura",
+        "district": "Raisen",
+        "type": "Government",
+        "contact1": ["ashish chourasia", "8878031152"],
+        "contact2": ["sangeeta malviya", "9893437975"],
+        "contact3": ["dr.rajneesh singhai", "7987791339"]
+    },
+    {
+        "name": "CH Mandideep",
+        "district": "Raisen",
+        "type": "Government",
+        "contact1": ["Indu Thakkar", "9993007201"],
+        "contact2": ["Dr Syed Ovais", "9806244456"],
+        "contact3": ["Dr Arvind Singh Chouhan", "9425028087"]
+    },
+    {
+        "name": "Care and cure hospital mandideep",
+        "district": "Raisen",
+        "type": "Private",
+        "contact1": ["Jitendra Singh Rathore", "9589364230"],
+        "contact2": ["Satyapraksh", "8770659945"],
+        "contact3": ["Mithlesh Bhade", "9827849800"]
+    },
+    {
+        "name": "CHC OBEDULLAGANJ",
+        "district": "Raisen",
+        "type": "Government",
+        "contact1": ["Sudheer Rangare", "8819865396"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "ANMTC CCC Raisen",
+        "district": "Raisen",
+        "type": "Government",
+        "contact1": ["Dr. Vinod Parmar", "7879995353"],
+        "contact2": ["Dr.M.L.ahirwar", "9425050799"],
+        "contact3": ["Dr.Yaspal Balyan", "9826530122"]
+    },
+    {
+        "name": "LALIT GEETANJALI MAKAN HOSPITAL , MANDIDEEP",
+        "district": "Raisen",
+        "type": "Private",
+        "contact1": ["DR ROHINI SHARMA NODAL OFFICER", "7987301139"],
+        "contact2": ["DR ARUN GANESHE", "9826023716"],
+        "contact3": ["DR ANISHA BHARTIYA", "9685458237"]
+    },
+    {
+        "name": "DH Rajgarh",
+        "district": "Rajgarh",
+        "type": "Government",
+        "contact1": ["Dr S kalawat", "8770673575"],
+        "contact2": ["Dr R S parihar", "9589054939"],
+        "contact3": ["Gaurav Shukla", "7999406343"]
+    },
+    {
+        "name": "CCC Narsinghgarh",
+        "district": "Rajgarh",
+        "type": "Government",
+        "contact1": ["Dr Gaurav Tripathi", "7354550869"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "GNMTC CCC Rajgarh",
+        "district": "Rajgarh",
+        "type": "Government",
+        "contact1": ["Dr Yogesh Dangi", "9111112666"],
+        "contact2": ["R S Parihar", "8839089286"],
+        "contact3": ["Deepa", "8770454618"]
+    },
+    {
+        "name": "CCC Biaora",
+        "district": "Rajgarh",
+        "type": "Government",
+        "contact1": ["Dr Atul BHaradwaj", "9425068079"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CCC Sarangpur",
+        "district": "Rajgarh",
+        "type": "Government",
+        "contact1": ["DR Manish CHauhan", "9424046041"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CCC Jeerapur",
+        "district": "Rajgarh",
+        "type": "Government",
+        "contact1": ["DR vivek Dubey", "9009406878"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "NAVEEN KANYA PARISAR",
+        "district": "Ratlam",
+        "type": "Government",
+        "contact1": ["DR RAIS KHAN", "7869703100"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CHL Jain Diwakar Hospital",
+        "district": "Ratlam",
+        "type": "Private",
+        "contact1": ["SUSHIL UPADHYAY", "9827657015"],
+        "contact2": ["Dr suryakant Patil", "9691660487"],
+        "contact3": ["Sunny Verma", "9827644430"]
+    },
+    {
+        "name": "RAILWAY HOSPITAL",
+        "district": "Ratlam",
+        "type": "Government",
+        "contact1": ["DR DEEPAK SAKLECHA", "9407542336"],
+        "contact2": ["DR DEEPAK SAKLECHA", "9407542335"],
+        "contact3": ["DR DEEPAK SAKLECHA", "9407542334"]
+    },
+    {
+        "name": "GMC Ratlam - DCHC",
+        "district": "Ratlam",
+        "type": "Government",
+        "contact1": ["Dr DEVENDRA NARGAWE", "9424003322"],
+        "contact2": ["Dr DEVENDRA NARGAWE", "9424003322"],
+        "contact3": ["Dr DEVENDRA NARGAWE", "9424003322"]
+    },
+    {
+        "name": "GMC Ratlam - DCH",
+        "district": "Ratlam",
+        "type": "Government",
+        "contact1": ["Dr DEVENDRA NARGAWE", "9424003322"],
+        "contact2": ["Dr DEVENDRA NARGAWE", "9424003322"],
+        "contact3": ["Dr DEVENDRA NARGAWE", "9424003322"]
+    },
+    {
+        "name": "PT DR SHIVSHAKTILAL SHARMA AYUSH HOSPITAL",
+        "district": "Ratlam",
+        "type": "Private",
+        "contact1": ["DR RAJESH SHARMA", "9424894249"],
+        "contact2": ["SUMIT SHARMA", "6261328528"],
+        "contact3": ["AVIRAL MALIK", "7000591224"]
+    },
+    {
+        "name": "DH Rewa - DCHC",
+        "district": "Rewa",
+        "type": "Government",
+        "contact1": ["Dr. Eishan Goyal", "9174566996"],
+        "contact2": ["Dr. Eishan Goyal", "9174566996"],
+        "contact3": ["Dr. Eishan Goyal", "9174566996"]
+    },
+    {
+        "name": "GAYANODAY HOSTAL",
+        "district": "Rewa",
+        "type": "Government",
+        "contact1": ["DR DINESH SINGH", "9993030554"],
+        "contact2": ["DR RANJEET SINGH", "9617088577"],
+        "contact3": ["DR S K SHARMA", "8871830112"]
+    },
+    {
+        "name": "REWA HOSPITAL & RESEARCH CENTRE PVT LTE",
+        "district": "Rewa",
+        "type": "Private",
+        "contact1": ["Dr. C. K. TRIPATHI", "9098360685"],
+        "contact2": ["NA", "9098360685"],
+        "contact3": ["NA", "9098360685"]
+    },
+    {
+        "name": "VINDHYA HOSPITAL & Research Centre rewa",
+        "district": "Rewa",
+        "type": "Private",
+        "contact1": ["DR VINAY PANDEY", "9617316444"],
+        "contact2": ["NITESH SHARMA", "9999345193"],
+        "contact3": ["NA", "9999345193"]
+    },
+    {
+        "name": "GMC - Rewa - DCH - Shyam Shah Medical College",
+        "district": "Rewa",
+        "type": "Government",
+        "contact1": ["Dr. Ashutosh Asati", "8221923870"],
+        "contact2": ["DR SANDEEP KAMBLE", "8349796555"],
+        "contact3": ["NA", "8221923870"]
+    },
+    {
+        "name": "BMC - GMC Sagar - DCH",
+        "district": "Sagar",
+        "type": "Government",
+        "contact1": ["Dr RAMESH PANDEY", "7000883597"],
+        "contact2": ["Dr RAMESH PANDEY", "7000883597"],
+        "contact3": ["Dr RAMESH PANDEY", "7000883597"]
+    },
+    {
+        "name": "Bhagyodaya Hospital",
+        "district": "Sagar",
+        "type": "Private",
+        "contact1": ["MR ANKUR SHRIVASTAVA", "9424427412"],
+        "contact2": ["MANISH JAIN", "7400714657"],
+        "contact3": ["CHANCHAL JAIN", "9993932245"]
+    },
+    {
+        "name": "SVN HOSPITAL",
+        "district": "Sagar",
+        "type": "Government",
+        "contact1": ["DR SUNEEL JAIN", "9424488070"],
+        "contact2": ["DR VISHAL JAIN", "9993370229"],
+        "contact3": ["DR SOURABH PATEL", "9301202133"]
+    },
+    {
+        "name": "DR. RAI HOSPITAL",
+        "district": "Sagar",
+        "type": "Private",
+        "contact1": ["DR SANTOSH RAI", "8889211192"],
+        "contact2": ["Mahadev Rai", "7987393601"],
+        "contact3": ["VAISHALI MALVIYA", "7225938521"]
+    },
+    {
+        "name": "SAGARSHREE HOSPITAL SAGAR",
+        "district": "Sagar",
+        "type": "Private",
+        "contact1": ["DR. PROMISE JAIN", "6262033603"],
+        "contact2": ["HARSH SHRIVASTAVA", "6262331331"],
+        "contact3": ["MAHENDRA THAKUR", "9981511110"]
+    },
+    {
+        "name": "DH SAGAR DCHC",
+        "district": "Sagar",
+        "type": "Government",
+        "contact1": ["Dr D K GOSWAMI", "9009134714"],
+        "contact2": ["DR ABHISHEK THAKUR", "8964840442"],
+        "contact3": ["DR YOGENDRA KHATEEK", "9425154749"]
+    },
+    {
+        "name": "DH BIDI HOSPITAL",
+        "district": "Sagar",
+        "type": "Government",
+        "contact1": ["DR N K SHAKYA", "7987914119"],
+        "contact2": ["DR SAHDEV PATEL", "8770788254"],
+        "contact3": ["DR RAJA SINGH DANGI", "8878086646"]
+    },
+    {
+        "name": "Military Hospital Sagar",
+        "district": "Sagar",
+        "type": "Government",
+        "contact1": ["Dr. manish gupta", "7598301160"],
+        "contact2": ["Dr. manish gupta", "7598301160"],
+        "contact3": ["Dr. manish gupta", "7598301160"]
+    },
+    {
+        "name": "Maihar CCC",
+        "district": "Satna",
+        "type": "Government",
+        "contact1": ["Dr Pradeep Nigam", "9300267473"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SARTHAK HOSPITAL SATNA",
+        "district": "Satna",
+        "type": "Private",
+        "contact1": ["DR SUNIL AGARWAL", "9425812530"],
+        "contact2": ["MR SOHIL AGARWAL", "8770095292"],
+        "contact3": ["PRAVEEN NIGAM", "7000029349"]
+    },
+    {
+        "name": "AAYUSHMAN HOSPITAL PVT LTD SATNA",
+        "district": "Satna",
+        "type": "Private",
+        "contact1": ["DR RAJNEESH JAISWAL", "9827369170"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Satna - DCHC",
+        "district": "Satna",
+        "type": "Government",
+        "contact1": ["Dr. S.P. Tiwari", "9827062501"],
+        "contact2": ["DR ARUN TRIVEDI", "9425470693"],
+        "contact3": ["IKBAL SINGH", "7999722952"]
+    },
+    {
+        "name": "Shreeji Kanha Hospital",
+        "district": "Satna",
+        "type": "Private",
+        "contact1": ["Dr Yogendra Singh", "7415150225"],
+        "contact2": ["Mr Arun", "6375846674"],
+        "contact3": ["Dr Rambabu", "9301995734"]
+    },
+    {
+        "name": "GNM HOSTEL",
+        "district": "Satna",
+        "type": "Government",
+        "contact1": ["Dr. P.C. Notwani", "9893364293"],
+        "contact2": ["SMT UMA VERMA", "8349252508"],
+        "contact3": ["NIRMALA PANDEY", "9630886706"]
+    },
+    {
+        "name": "JANKIKUND HOSPITAL CHITRAKOOT",
+        "district": "Satna",
+        "type": "Private",
+        "contact1": ["DR DEEPAK SHARMA", "9981156964"],
+        "contact2": ["VINOD YADAV", "9305799896"],
+        "contact3": ["SANDEEP SHARMA", "9584414768"]
+    },
+    {
+        "name": "M.P. BIRLA HOSPITAL SATNA",
+        "district": "Satna",
+        "type": "Private",
+        "contact1": ["Mr Harishankar Mishra", "9827867607"],
+        "contact2": ["Manoj Pagare", "9423630886"],
+        "contact3": ["DR SARIKA KALRA", "7974004209"]
+    },
+    {
+        "name": "Pathak Hospital",
+        "district": "Satna",
+        "type": "Private",
+        "contact1": ["Jagruti Singh", "8223078203"],
+        "contact2": ["DR NAVEEN KALRA", "9827217071"],
+        "contact3": ["DR RAJEEV PATHAK", "9827232547"]
+    },
+    {
+        "name": "CH MAIHAR",
+        "district": "Satna",
+        "type": "Government",
+        "contact1": ["DR GYANDESH GAUTAM", "8319165715"],
+        "contact2": ["DR VK GAUTAM", "9425810962"],
+        "contact3": ["NA", "9000000010"]
+    },
+    {
+        "name": "DH Sehore - DCHC",
+        "district": "Sehore",
+        "type": "Government",
+        "contact1": ["Dr Anand Sharma", "9425650198"],
+        "contact2": ["DR ROHIT MODI", "8839582924"],
+        "contact3": ["DR PRASHANT BHIMTE", "9753656035"]
+    },
+    {
+        "name": "CHC ICHHAWAR",
+        "district": "Sehore",
+        "type": "Government",
+        "contact1": ["DR. B.B. SHARMA", "9826430950"],
+        "contact2": ["MR PIYUSH SHRIVASTAVA", "9826697005"],
+        "contact3": ["DR. B.B. SHARMA", "9826430950"]
+    },
+    {
+        "name": "SEHORE- GOVERNMENT GIRLS HOSTEL, NEAR IES SCHOOL",
+        "district": "Sehore",
+        "type": "Government",
+        "contact1": ["DR RAJKUMAR AHIRWAR", "9977201085"],
+        "contact2": ["MR DHIRENDRA ARYA", "9424093268"],
+        "contact3": ["DR RAJKUMAR AHIRWAR", "9977201085"]
+    },
+    {
+        "name": "SCHOOL OF MEDICAL SCIENCE SSSUTMS PRIVATE HOSPITAL SEHORE",
+        "district": "Sehore",
+        "type": "Private",
+        "contact1": ["DR MUKESH TIWARI", "9826293590"],
+        "contact2": ["DR KESHAV RATHORE", "8109795534"],
+        "contact3": ["SUMIT RATHORE", "9926823522"]
+    },
+    {
+        "name": "SEHORE - SHASKIYA AWASIYA KHELKUD SANSTHAN",
+        "district": "Sehore",
+        "type": "Government",
+        "contact1": ["Dr. V.K.Chaturvedi", "9826090264"],
+        "contact2": ["DR J D KORI", "7000097110"],
+        "contact3": ["KAPIL DUPHARE", "7697404748"]
+    },
+    {
+        "name": "Civil Hospital Lakhnadon",
+        "district": "Seoni",
+        "type": "Government",
+        "contact1": ["Dr B S Solanki", "7000017466"],
+        "contact2": ["Dr B S Solanki", "9479635771"],
+        "contact3": ["Neha Mishra", "8989665500"]
+    },
+    {
+        "name": "DH Seoni - DCHC",
+        "district": "Seoni",
+        "type": "Government",
+        "contact1": ["Dr Vinod K Navkar", "9425174925"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Jindal Hospital",
+        "district": "Seoni",
+        "type": "Private",
+        "contact1": ["Dr Vinit Seth Dr S K Agrawal", "7506093704"],
+        "contact2": ["Dr S K Agrawal", "9425175701"],
+        "contact3": ["Geetendra", "9755279812"]
+    },
+    {
+        "name": "Jathar Hospital",
+        "district": "Seoni",
+        "type": "Private",
+        "contact1": ["Dr Saiyat Sanshul Hassan", "8319659700"],
+        "contact2": ["Dr Pawan Singh Rahangdale", "8888804194"],
+        "contact3": ["Ritesh Rajak", "7000978476"]
+    },
+    {
+        "name": "DH Shahdol - DCHC",
+        "district": "Shahdol",
+        "type": "Government",
+        "contact1": ["Dr Ganesh Tandiya", "9993260440"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "BUDHAR CENTRAL Hospital -(CCC- Other Institution)",
+        "district": "Shahdol",
+        "type": "Government",
+        "contact1": ["Dr Deepak Paradkar", "9867762839"],
+        "contact2": ["Dr N K SHARMA", "7587390894"],
+        "contact3": ["DR PATERIA", "9755283795"]
+    },
+    {
+        "name": "SHRI RAM HOSPITAL",
+        "district": "Shahdol",
+        "type": "Private",
+        "contact1": ["DR ROHIT DUVEY", "9425362902"],
+        "contact2": ["PRAJIT SINGH", "9826946116"],
+        "contact3": ["AANCHAL PRAJAPATI", "6263724938"]
+    },
+    {
+        "name": "Amrita Hospital",
+        "district": "Shahdol",
+        "type": "Private",
+        "contact1": ["Dr VINAMRA JAIN", "7697822888"],
+        "contact2": ["DILIP SHUKLA", "7000592213"],
+        "contact3": ["RAHUL SONI", "8770410877"]
+    },
+    {
+        "name": "GMC Shahdol - DCH",
+        "district": "Shahdol",
+        "type": "Government",
+        "contact1": ["DR NAGENDRA SINGH", "9926409802"],
+        "contact2": ["Dr Vikrant Kabirpanthi", "9981293674"],
+        "contact3": ["Akhilesh Pratap Singh", "7828217888"]
+    },
+    {
+        "name": "CH BEOHARI",
+        "district": "Shahdol",
+        "type": "Government",
+        "contact1": ["DR NISHANT SINGH PARIHAR", "8120014435"],
+        "contact2": ["DR D K PARASAR", "9424333130"],
+        "contact3": ["VINOD RAJAK", "8120709966"]
+    },
+    {
+        "name": "DEVANTA HOSPITAL",
+        "district": "Shahdol",
+        "type": "Private",
+        "contact1": ["DR BRAJESH PANDEY", "9111182645"],
+        "contact2": ["RISHIRAJ KORI", "9406736412"],
+        "contact3": ["RAJESH SINGH", "9407801779"]
+    },
+    {
+        "name": "DH Shajapur - DCHC",
+        "district": "Shajapur",
+        "type": "Government",
+        "contact1": ["Dr. Alok Saxena", "9826060452"],
+        "contact2": ["Dr Shubham Gupta", "9977551011"],
+        "contact3": ["Dr Sachin Nayak", "9818781947"]
+    },
+    {
+        "name": "Vyas Nursing Home Shajapur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Udit Bhatt", "9425083030"],
+        "contact2": ["Dr shailesh Thakur", "9826084271"],
+        "contact3": ["Dr smriti thakur", "9425083740"]
+    },
+    {
+        "name": "CCC Shujalpur",
+        "district": "Shajapur",
+        "type": "Government",
+        "contact1": ["Dr. R.K Tiwari", "8989135765"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CH Shujalpur City",
+        "district": "Shajapur",
+        "type": "Government",
+        "contact1": ["Dr. R.K. Tiwari", "8989135765"],
+        "contact2": ["Sunita", "9752603067"],
+        "contact3": ["Dr. Ashwin", "9977523395"]
+    },
+    {
+        "name": "JASH Hospital and Research Centre",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr. Apoorva Sharma", "9755395959"],
+        "contact2": ["Vivek William", "9179132668"],
+        "contact3": ["Kapil Parmar", "9713286714"]
+    },
+    {
+        "name": "Shree Balaji Hospital Kalapipal",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["SUBODH MATHUR", "9589657172"],
+        "contact2": ["Mr Kishore", "9893537845"],
+        "contact3": ["Kedar mewada", "9993353579"]
+    },
+    {
+        "name": "Gohil Sampoorn Hospital",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr.Praveen singh", "9425084156"],
+        "contact2": ["rajesh Dhakad", "6350371922"],
+        "contact3": ["Faizan Ali", "8349223587"]
+    },
+    {
+        "name": "J.K. Hospital & Trauma Center Shujalpur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Ankit saxena", "9977826885"],
+        "contact2": ["Sandeep patidar", "9753687766"],
+        "contact3": ["Sudhir parmar", "9098190802"]
+    },
+    {
+        "name": "Aarogya Hospital Shujalpur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr. Nagendra Rajput", "9893458798"],
+        "contact2": ["Lokesh Lodhi", "9131669966"],
+        "contact3": ["Dheeraj parmar", "8236002303"]
+    },
+    {
+        "name": "Vridhashram Shajapur",
+        "district": "Shajapur",
+        "type": "Government",
+        "contact1": ["Dr. K.P Singh", "8376999749"],
+        "contact2": ["Dr. Saddam Ali", "9399513762"],
+        "contact3": ["Dr. Shubham Gupta", "9977551011"]
+    },
+    {
+        "name": "Sai Kripa Hospital & Emergency Care Shujalpur Mandi",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr Mahendra Parmar", "9977661099"],
+        "contact2": ["Dr Mahendra Parmar", "9977661099"],
+        "contact3": ["Dr Mahendra Parmar", "9977661099"]
+    },
+    {
+        "name": "Metro Hospital Shajapur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr. Sunil Sharma", "9893889992"],
+        "contact2": ["Praveen Mandloi", "7000852442"],
+        "contact3": ["Dr. jitendra Patidar", "8839380600"]
+    },
+    {
+        "name": "D.P. Care Hospital Shujalpur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Nirmal parmar", "9752764760"],
+        "contact2": ["Mr. Dheeraj Sharma", "9425966664"],
+        "contact3": ["Sudhir Salunke", "8827377540"]
+    },
+    {
+        "name": "Shajapur City Hospital Shajapur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr Varun Kumar Bajaj", "8120266731"],
+        "contact2": ["Nitesh Sharma", "9425034565"],
+        "contact3": ["Kuldeep Mahor", "9754705722"]
+    },
+    {
+        "name": "Patidar Nusing Home Shajapur",
+        "district": "Shajapur",
+        "type": "Private",
+        "contact1": ["Dr raj Kumar patidar", "9425492610"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Dccc dhengda",
+        "district": "Sheopur",
+        "type": "Government",
+        "contact1": ["Dr r b goyal", "9425128462"],
+        "contact2": ["dr J N Saxena", "9826242831"],
+        "contact3": ["dr Pradeep sharma", "9302654551"]
+    },
+    {
+        "name": "DH Sheopur",
+        "district": "Sheopur",
+        "type": "Government",
+        "contact1": ["Dr R B Goyal", "8965077622"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "DH Shivpuri - DCHC",
+        "district": "Shivpuri",
+        "type": "Government",
+        "contact1": ["Dr Dinesh Rajput", "7354134959"],
+        "contact2": ["Dr Chandrashekhar Gupta", "9827562241"],
+        "contact3": ["Surandra sharma", "8305210552"]
+    },
+    {
+        "name": "GMC Shivpuri - DCH",
+        "district": "Shivpuri",
+        "type": "Government",
+        "contact1": ["Dr KV Verma", "7830298790"],
+        "contact2": ["Dr Ritesh Yadav", "9977423070"],
+        "contact3": ["Dr Rohit", "8390772266"]
+    },
+    {
+        "name": "NAVJEEVAN HOSPITAL",
+        "district": "Shivpuri",
+        "type": "Private",
+        "contact1": ["DR arvind", "8839022630"],
+        "contact2": ["Pradeep tomar", "7000940312"],
+        "contact3": ["Munmun Khan", "9098214598"]
+    },
+    {
+        "name": "PEOPLE CARE HOSPITAL",
+        "district": "Shivpuri",
+        "type": "Private",
+        "contact1": ["DR ANIL GOSWAMI", "9752153200"],
+        "contact2": ["DR SP PAWAIYA", "9329999093"],
+        "contact3": ["PRAVEEN SINGH", "6261666970"]
+    },
+    {
+        "name": "MEDICAL COLLEGE INTERN HOSTEL",
+        "district": "Shivpuri",
+        "type": "Government",
+        "contact1": ["Dr.Mukesh mittal", "9827726360"],
+        "contact2": ["DR VISHNU GUPTA", "9425338473"],
+        "contact3": ["DR CP JAISWAL", "7000416910"]
+    },
+    {
+        "name": "Siddhi Vinayak Multi Speciality Hospital",
+        "district": "Shivpuri",
+        "type": "Private",
+        "contact1": ["DR.PD GUPTA", "9425489416"],
+        "contact2": ["RAJENDRA SHARMA", "9752068385"],
+        "contact3": ["ANKIT CHOUBEY", "9425400909"]
+    },
+    {
+        "name": "SUKHDEV HOSPITAL",
+        "district": "Shivpuri",
+        "type": "Private",
+        "contact1": ["DR DEEPAK GOUTAM", "7389002743"],
+        "contact2": ["DR YASHDEV GOUTAM", "9568470000"],
+        "contact3": ["GIRRAJ GOUTAM", "7697668486"]
+    },
+    {
+        "name": "VARDHAN HOSPITAL",
+        "district": "Shivpuri",
+        "type": "Private",
+        "contact1": ["DR MAHENDRA VERMA", "9893231106"],
+        "contact2": ["HARIOM TYAGI", "6260980474"],
+        "contact3": ["LUVKUSH DHAKAD", "8639344532"]
+    },
+    {
+        "name": "M M HOSPITAL",
+        "district": "Shivpuri",
+        "type": "Private",
+        "contact1": ["DR NITESH GOSWAMI", "8269932412"],
+        "contact2": ["NEERAJ SHARMA", "8770681980"],
+        "contact3": ["BHARAT SONI", "9074074800"]
+    },
+    {
+        "name": "DH Sidhi - DCHC",
+        "district": "Sidhi",
+        "type": "Government",
+        "contact1": ["Dr DK Dwivedi", "9424689936"],
+        "contact2": ["dr avinash john", "7869247790"],
+        "contact3": ["dr m pandey", "7376308455"]
+    },
+    {
+        "name": "GNM TRAINING CENTER",
+        "district": "Sidhi",
+        "type": "Government",
+        "contact1": ["DR AVINASH JOHN", "7869247901"],
+        "contact2": ["DR RAJESH KOL", "8839240284"],
+        "contact3": ["DR NITIN PARIHAR", "9685303500"]
+    },
+    {
+        "name": "Nehru Shatabdi Chikitsalaya, Jayant, NCL",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr Vinod", "9926201747"],
+        "contact2": ["Dr Vinod", "9926201747"],
+        "contact3": ["Dr Vinod", "9926201747"]
+    },
+    {
+        "name": "Balika OBC Ashram, Sajhawa",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr. Bhupendra Singh", "8349004169"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "New District Hospital cum Trauma Centre",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr. Santosh Kumar", "8120816217"],
+        "contact2": ["Dr. Santosh Kumar", "8120816217"],
+        "contact3": ["Dr. Santosh Kumar", "8120816217"]
+    },
+    {
+        "name": "DH Singrauli - DCHC",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr Santosh Kumar", "8120816217"],
+        "contact2": ["Dr Santosh Kumar", "8120816217"],
+        "contact3": ["Dr Santosh Kumar", "8120816217"]
+    },
+    {
+        "name": "Amlohri Kalyan Mandap",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Rajesh Chaudhari", "9406711708"],
+        "contact2": ["Dr. Vinod", "9968159353"],
+        "contact3": ["Dr. Vinod", "9926201747"]
+    },
+    {
+        "name": "Jayant Kalyan Mandap",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr. Pankaj Singh", "9691067668"],
+        "contact2": ["Dr. Rajesh", "7049904040"],
+        "contact3": ["Dr. Khushboo", "6261660356"]
+    },
+    {
+        "name": "Vindhya Chikitsalay Ntpc Singrauli",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr Ak mishra", "9406711268"],
+        "contact2": ["Dr Ak mishra", "9406711268"],
+        "contact3": ["Dr Ak mishra", "9406711268"]
+    },
+    {
+        "name": "Post Metric Balak Adiwasi Chhatravas, Mahuagaon",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr. C L Singh", "9669905421"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Adiwasi Balak Ashram, Sajhawa",
+        "district": "Singrauli",
+        "type": "Government",
+        "contact1": ["Dr. Bhupendra Singh", "8349004169"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "Pre Matric Kanya Chhatrawas, Dhonga",
+        "district": "Tikamgarh",
+        "type": "Government",
+        "contact1": ["Dr Satendra Gupta", "8319926391"],
+        "contact2": ["Dr Rajendra Ahirwar", "9754721300"],
+        "contact3": ["Dr Bansi lal Ahirwar", "8305927743"]
+    },
+    {
+        "name": "DH-TIkamgarh1",
+        "district": "Tikamgarh",
+        "type": "Government",
+        "contact1": ["Dr Amit Choudhary", "9425145957"],
+        "contact2": ["DR SOURABH JAIN", "9424432849"],
+        "contact3": ["DR HARIVALLABH BADGIYA", "9340794975"]
+    },
+    {
+        "name": "CCC Udan",
+        "district": "Tikamgarh",
+        "type": "Government",
+        "contact1": ["Dr. Sanjay Kushwaha", "9893499771"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CHC Jatara",
+        "district": "Tikamgarh",
+        "type": "Government",
+        "contact1": ["Dr. Rahul Jain", "9926863571"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "SHREE G D BIRLA MEMORIAL HEALTH CENTRE",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["DR. BRAJENDRA KUMAR", "7838478989"],
+        "contact2": ["SURESH SITOLE", "9926595470"],
+        "contact3": ["NISHA TATWADE", "9617518397"]
+    },
+    {
+        "name": "Tejankar Healthcare & medical Research institute",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["DR. Govind Parmar", "7000062858"],
+        "contact2": ["MR TUSHAR", "9589441545"],
+        "contact3": ["ANIL TEJANKAR", "9893549955"]
+    },
+    {
+        "name": "Charak Bhawan 5th Floor",
+        "district": "Ujjain",
+        "type": "Government",
+        "contact1": ["Dr. Nilesh Chandel", "9425341326"],
+        "contact2": ["Dr. Nilesh Chandel", "9425341326"],
+        "contact3": ["Dr. Nilesh Chandel", "9425341326"]
+    },
+    {
+        "name": "Saharsh Hospital",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["Dr.Harsh Mangal", "9425092433"],
+        "contact2": ["Dr.Harsh Mangal", "9425092433"],
+        "contact3": ["Dr.Harsh Mangal", "9425092433"]
+    },
+    {
+        "name": "RAJENDRA SURI",
+        "district": "Ujjain",
+        "type": "Government",
+        "contact1": ["SUNITA PARMAR", "9425332393"],
+        "contact2": ["SUNITA PARMAR", "9425332393"],
+        "contact3": ["SUNITA PARMAR", "9425332393"]
+    },
+    {
+        "name": "PUSHPA MISSION HOSPITAL",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["Dr. Sunil Sharma Nodal Officer", "9993951015"],
+        "contact2": ["Fr. Antony P.J.", "9425380020"],
+        "contact3": ["Fr. Lijo Sebastian Asst. Director", "9406605992"]
+    },
+    {
+        "name": "Patidar Hospital and research centre",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["ANOKHILAL PATIDAR", "7697270358"],
+        "contact2": ["SHEEBA", "9893826334"],
+        "contact3": ["JHANVI", "8319045814"]
+    },
+    {
+        "name": "DH - Ujjain Civil Hospital Madhavnagar",
+        "district": "Ujjain",
+        "type": "Government",
+        "contact1": ["Dr. Bhojraj Sharma", "9826463689"],
+        "contact2": ["RAVI", "8319567137"],
+        "contact3": ["MADHU DHARIYA", "8319934906"]
+    },
+    {
+        "name": "RD Gardi Medical college (Contract)",
+        "district": "Ujjain",
+        "type": "Government",
+        "contact1": ["Mr. Sujan S. Rawat", "9098797967"],
+        "contact2": ["Mr. Sujan S. Rawat", "9098797967"],
+        "contact3": ["Mr. Sujan S. Rawat", "9098797967"]
+    },
+    {
+        "name": "J K HOSPITAL",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["PRABHAT SIRSAT", "9617077077"],
+        "contact2": ["KAMAL GAUR", "7477242004"],
+        "contact3": ["SIKHA TATLAWAT", "7354243522"]
+    },
+    {
+        "name": "S S HOSPITAL & RESEARCH CENTRE,UJJAIN",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["MR.AMIT PRATAP SINGH", "8359889621"],
+        "contact2": ["DR ANIL CHAUHAN", "7828464013"],
+        "contact3": ["DR ANIL CHAUHAN", "7828464013"]
+    },
+    {
+        "name": "SHREE GURUNANAK HOSPITAL AND RESEARCH CENTER",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["DR FARHAN", "9302302221"],
+        "contact2": ["DR UMES", "7024363030"],
+        "contact3": ["DR MUKESH", "7999122552"]
+    },
+    {
+        "name": "CHL MEDICAL CENTER",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["MR DEEPESH SHARMA", "8827913289"],
+        "contact2": ["DR KUSHAG BHATNAGAR", "7748009269"],
+        "contact3": ["HARI OM", "9584649292"]
+    },
+    {
+        "name": "DESHMUKH HOSPITAL AND RESEARCH CENTRE",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["DR SHRIPAD DESHMUKH", "9425195676"],
+        "contact2": ["MANISH CHAUHAN", "7987421443"],
+        "contact3": ["SURESH SHARMA", "9926653424"]
+    },
+    {
+        "name": "UJJAIN CHARITABLE TRUST HOSPITAL UJJAIN",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["DR RAVI JAIN", "9926006606"],
+        "contact2": ["DR AJIT YADAV", "9669601987"],
+        "contact3": ["DR HARDIK DANGAR", "9974874536"]
+    },
+    {
+        "name": "Sanjeevani Hospital And Rearch Centre",
+        "district": "Ujjain",
+        "type": "Private",
+        "contact1": ["Yogesh Upadhyay", "9827215447"],
+        "contact2": ["PRAVEEN KUMAWAT", "9893160205"],
+        "contact3": ["VIKASH BAVARIA", "7000756639"]
+    },
+    {
+        "name": "DH Umaria - DCHC",
+        "district": "Umaria",
+        "type": "Government",
+        "contact1": ["Dr Pramod Dwivedi", "9685056301"],
+        "contact2": ["Dr Sandeep Singh", "9424646217"],
+        "contact3": ["Sourabh Soni", "8770907221"]
+    },
+    {
+        "name": "Regional Hospital Narozabad",
+        "district": "Umaria",
+        "type": "Government",
+        "contact1": ["Dr Pratibha Pathak", "9425533914"],
+        "contact2": ["Dr M S Prasad", "9425279878"],
+        "contact3": ["DR Singha", "9425331379"]
+    },
+    {
+        "name": "MPEB HOSPITAL MANGHTAR PALI",
+        "district": "Umaria",
+        "type": "Government",
+        "contact1": ["SHUBHAM RAIKWAR", "9424727758"],
+        "contact2": ["Meena Sharma", "8889479060"],
+        "contact3": ["Vikash Saxena", "8989001359"]
+    },
+    {
+        "name": "MASTER CCC",
+        "district": "Umaria",
+        "type": "Government",
+        "contact1": ["Dr Vinod Gupta", "9435344230"],
+        "contact2": ["Sandeep Gaharwar", "9993479277"],
+        "contact3": ["ROHIT SINGH BAGHEL", "9893880586"]
+    },
+    {
+        "name": "CCC SIRONJ",
+        "district": "Vidisha",
+        "type": "Government",
+        "contact1": ["DR ABHISHEK UPADHYAY", "8770508313"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "GMC- Vidisha - DCH",
+        "district": "Vidisha",
+        "type": "Government",
+        "contact1": ["Dr ABHILEKH JAIN", "9827606268"],
+        "contact2": ["Dr Ajay Upadhyay", "9713058764"],
+        "contact3": ["Shri Amit Parihar", "9340670944"]
+    },
+    {
+        "name": "CCC VIDISHA",
+        "district": "Vidisha",
+        "type": "Government",
+        "contact1": ["SHRI MEHTAB SINGH RAWAI", "8109880046"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    },
+    {
+        "name": "CCC BASODA",
+        "district": "Vidisha",
+        "type": "Government",
+        "contact1": ["DR RAVINDRA CHIDAR", "9826821349"],
+        "contact2": ["NA"],
+        "contact3": ["NA"]
+    }
+]

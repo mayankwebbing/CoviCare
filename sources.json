@@ -1,0 +1,182 @@
+{
+    "official": [
+        [
+            "World Health Organization",
+            "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+        ],
+        [
+            "Andhra Pradesh Covid Portal",
+            "http://dashboard.covid19.ap.gov.in/ims/hospbed_reports/"
+        ],
+        [
+            "Assam Covid Portal",
+            "https://covid19.assam.gov.in/"
+        ],
+        [
+            "Bihar Covid Portal",
+            "https://covid19.bihar.gov.in/"
+        ],
+        [
+            "Chandigarh Covid Portal",
+            "http://chdcovid19.in/"
+        ],
+        [
+            "Chattisgarh Covid Portal",
+            "https://cg.nic.in/health/covid19/RTPBedAvailable.aspx"
+        ],
+        [
+            "Assam Covid Portal",
+            "https://covid19.assam.gov.in/"
+        ],
+        [
+            "Dadar and Nagar Covid Portal",
+            "https://covidfacility.dddgov.in/"
+        ],
+        [
+            "Delhi Covid Portal",
+            "https://coronabeds.jantasamvad.org/"
+        ],
+        [
+            "Laddakh Covid Portal",
+            "https://covid.ladakh.gov.in/"
+        ],
+        [
+            "Goa Covid Portal",
+            "https://www.goa.gov.in/covid-19/"
+        ],
+        [
+            "Gujrat Covid Portal",
+            "https://gujcovid19.gujarat.gov.in/"
+        ],
+        [
+            "Ahmadabad Covid Portal",
+            "https://ahna.org.in/covid19.html"
+        ],
+        [
+            "Vadodra city Covid Portal",
+            "https://vmc.gov.in/Covid19VadodaraApp/Default.aspx"
+        ],
+        [
+            "Surat Covid Portal",
+            "http://office.suratsmartcity.com/SuratCOVID19/"
+        ],
+        [
+            "Haryana Covid Portal",
+            "https://coronaharyana.in/"
+        ],
+        [
+            "Gurugram Covid Portal",
+            "https://covidggn.com/public/pages/gurugram-hospitals"
+        ],
+        [
+            "Himachal Pradesh Covid Portal",
+            "http://www.nrhmhp.gov.in/content/covid-health-facilities"
+        ],
+        [
+            "Jharkhand Covid Portal",
+            "https://www.jharkhand.gov.in/Home/Covid19Dashboard"
+        ],
+        [
+            "Karnataka Covid Portal",
+            "https://bbmpgov.com/chbms/"
+        ],
+        [
+            "Kerala Covid Portal",
+            "https://covid19jagratha.kerala.nic.in/home/addHospitalDashBoard"
+        ],
+
+        [
+            "Madhya Pradesh Covid Portal",
+            "http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-dashboard/"
+        ],
+        [
+            "Navi Mumbai Covid Portal",
+            "https://nmmchealthfacilities.com/HospitalInfo/showhospitalist"
+        ],
+        [
+            "Pune Covid Portal",
+            "https://www.divcommpunecovid.com/ccsbeddashboard/hsr"
+        ],
+        [
+            "Thane Covid Portal",
+            "https://covidthane.org/availabiltyOfHospitalBeds.html"
+        ],
+        [
+            "Nagpur Covid Portal",
+            "http://nsscdcl.org/covidbeds/AvailableHospitals.jsp"
+        ],
+        [
+            "Nashik Covid Portal",
+            "http://covidcbrs.nmc.gov.in/home/hospitalSummary"
+        ],
+        [
+            "Meghalaya Covid Portal",
+            "https://meghealth.in/MeghCare.html"
+        ],
+        [
+            "Nagaland Covid Portal",
+            "https://covid19.nagaland.gov.in/"
+        ],
+        [
+            "Mizoram Covid Portal",
+            "https://mcovid19.mizoram.gov.in/"
+        ],
+        [
+            "Odisha Covid Portal",
+            "https://statedashboard.odisha.gov.in/"
+        ],
+        [
+            "Puducherry Covid Portal",
+            "https://covid19dashboard.py.gov.in/"
+        ],
+
+        [
+            "Rajasthan Covid Portal",
+            "https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx"
+        ],
+        [
+            "Tamil Nadu Covid Portal",
+            "https://stopcorona.tn.gov.in/"
+        ],
+        [
+            "Telangana Covid Portal",
+            "http://164.100.112.24/SpringMVC/getHospital_Beds_Status_Citizen.htm"
+        ],
+
+        [
+            "Uttar Pradesh Covid Portal",
+            "http://dgmhup.gov.in/EN/covid19bedtrack"
+        ],
+
+        [
+            "Uttarakhand Covid Portal",
+            "https://covid19.uk.gov.in/bedssummary.aspx"
+        ],
+        [
+            "West Bengal Covid Portal",
+            "https://www.wbhealth.gov.in/"
+        ]
+    ],
+    "initiatives": [
+        ["Life", "https://life.coronasafe.network/"],
+        ["Covid Resources India", "https://www.covidresourceindia.com/"],
+        ["Covid Fight Club", "https://covidfightclub.org/"],
+        ["Covid19India", "https://www.covid19india.org/resources"],
+        ["The Uncut Team", "https://www.theuncutteam.com/resources"],
+        ["Covid19 Resource Finder", "https://covid19helpindia.in/"],
+        ["Crowdsourcing of Data", "https://covidfacts.in/"],
+        ["Verified* Covid Help Resources", "https://covidwin.in/"],
+        ["Covid Khoj (Filter Tweets)", "https://covidkhoj.in/"],
+        ["Resource Website for Goa", "https://covidcaregoa.in/"],
+        ["Covid19 Resources", "https://covid19-resources.in/"],
+        ["Bhopal Covid Beds", "https://bhopalcovidbeds.in/"],
+        ["Hyd Covid Resources", "https://hydcovidresources.com/"],
+        ["Covid Relief", "https://covidrelief.glideapp.io/"],
+        ["Covid Resources", "https://covidresources.netlify.app/"],
+        ["FastAid", "https://fastaid.in/"],
+        ["Covid Resources", "https://www.covidindiaresources.com/"],
+        ["Covid Meals for India", "https://covidmealsforindia.com/"],
+        ["Dhoondh", "https://dhoondh.com/"]
+
+    ]
+}
