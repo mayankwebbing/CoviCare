@@ -138,21 +138,26 @@
                     <h6 class="m-0">State Wise Data<input style="float: right" type="text" id="myTableInput" onkeyup="myTableSearch()" placeholder="Search for States..."></h6>
                   </div>
                   <div class="card-body p-0">
-                    <table id="myTable" class="table datatable table-responsive-md table-hover" data-id-field="code" data-sort-name="value1" data-sort-order="desc" data-pagination="false" data-show-pagination-switch="false">
-                      <thead>
-                        <tr>
-                        <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:-->
-                          <th data-field="code" onclick="sortTableStr(0)" class="text-dark" data-sortable="true">State</th>
-                          <th data-field="code" onclick="sortTableNo(1)" class="text-danger" data-sortable="true">Cases</th>
-                          <th data-field="code" onclick="sortTableNo(2)" class="text-success" data-sortable="true">Recovered</th>
-                          <th data-field="code" onclick="sortTableNo(3)" class="text-info" data-sortable="true">Active</th>
-                          <th data-field="code" onclick="sortTableNo(4)" class="text-secondary" data-sortable="true">Deaths</th>
-                        </tr>
-                      </thead>
-                      <tbody id="myTable">
+                    <style>
+                      form > input, form > textarea, form > label {
+                        display: block;
+                        margin-bottom: 5px;
+                      }
+                      </style>
+                      
+                      <form action="https://formspree.io/f/xqkwqdby" method="POST">
+                        <label>Name</label>
+                        <input type="text" name="name" />
+                        <label>Subject</label>
+                        <input type="text" name="subject" />
+                        <label>Phone Number</label>
+                        <input type="text" name="phone" />
+                        <label>Message</label>
+                        <textarea name="message"></textarea>
+                      
+                        <input type="submit" name="send" value="Send Message" />
+                      </form>
 
-                      </tbody>
-                    </table>
                   </div>
                 </div>
               </div>
@@ -168,6 +173,7 @@
         </main>
       </div>
     </div>
+
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
