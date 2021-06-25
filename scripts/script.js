@@ -124,7 +124,6 @@ $.getJSON("https://api.rootnet.in/covid19-in/stats/latest", function(latest){
     $(".totalDeaths").append(total.summary.deaths);
 })
 
-/*
 $.getJSON("https://api.rootnet.in/covid19-in/stats/latest", function(latestData){
             
             var re = latestData.data.regional;
@@ -165,8 +164,8 @@ function myTableSearch() {
       }
     }
   }
-}*/
-/*
+}
+
 function sortTableStr(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
   table = document.getElementById("myTable");
@@ -214,7 +213,7 @@ function sortTableStr(n) {
       }
     }
   }
-}*/
+}
 
 // function sortTableNo(n) {
 //     var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
