@@ -129,7 +129,7 @@ $.getJSON("https://api.rootnet.in/covid19-in/stats/latest", function(latestData)
             var re = latestData.data.regional;
             buildTable(re)
             function buildTable(data){
-		        var table = document.getElementById('myTable')
+		        var table = document.getElementById('myStateTable')
                 for (var i = 0; i < data.length; i++){
                     var aa = data[i].totalConfirmed - data[i].discharged - data[i].deaths;
                     var row = `<tr>
@@ -149,7 +149,7 @@ function myTableSearch() {
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("myTableInput");
   filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
+  table = document.getElementById("myStateTable");
   tr = table.getElementsByTagName("tr");
 
   // Loop through all table rows, and hide those who don't match the search query
@@ -168,7 +168,7 @@ function myTableSearch() {
 
 function sortTableStr(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("myTable");
+  table = document.getElementById("myStateTable");
   switching = true;
   //Set the sorting direction to ascending:
   dir = "asc"; 
