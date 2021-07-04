@@ -38,3 +38,16 @@ function myTableSearch() {
       }
     }
 }
+
+$('#mphospitalinfo').dataTable( {
+  "pageLength": 10
+} );
+$(document).ready(function() { 
+  $('#example').DataTable( { 
+    dom: 'Bfrtip', 
+    lengthMenu: [ 
+      [ 10, 25, 50, -1 ], 
+      [ '10 rows', '25 rows', '50 rows', 'Show all' ] ], 
+      buttons: [ 'pageLength' ] 
+  } ); 
+} );
