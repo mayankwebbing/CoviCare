@@ -18,7 +18,7 @@
 // })
 
 // function myTableSearch() {
-//     // Declare variables
+//     // Declare variables 
 //     var input, filter, table, tr, td, i, txtValue;
 //     input = document.getElementById("myTableInput");
 //     filter = input.value.toUpperCase();
